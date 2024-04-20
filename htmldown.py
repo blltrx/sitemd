@@ -24,6 +24,8 @@ root = ""
 # argument definitions
 argvars = sys.argv[1:]
 infile = argvars[0]
+if infile == "README.md":
+    exit(0)
 if "-v" in argvars:
     DEBUG = True
 if "--exclude-extra" in argvars:
