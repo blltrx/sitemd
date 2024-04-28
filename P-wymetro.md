@@ -81,79 +81,78 @@ the key issues with this run were:
 - inefficient routing. i should have got a bus from Steeton & Silsden to Ilkley when doing the Airedale and Wharfedale lines to save me doubling back on myself. 
 i'll attempt again either early june or mid september.
 
-below is my log. i forgot to keep track of the service headcode, so instead i've marked out where i borded and alighted each service.
+below is my log. i forgot to keep track of the service headcode, so instead i've marked out where i borded and alighted each service. i've also marked my change, as in this run i did change via bus between two stations.
 
-
-Service     |Station                |Time     
-------------|-----------------------|---------
-Start       |Moorthorpe             |8:05:04  
-End         |Pontefract Baghill     |8:14:13  
-Start       |Pontefract Monkhill    |8:44:54  
-            |Pontefract Tanshelf    |8:47:54  
-            |Featherstone           |8:52:06  
-            |Streethouse            |8:55:35  
-            |Wakefield Kirkgate     |9:06:24  
-            |Wakefield Westgate     |9:13:18  
-End         |Leeds                  |9:27:09  
-Start       |Leeds                  |9:31:49  
-            |Kirkstall Forge        |9:38:41  
-            |Guiseley               |9:46:22  
-            |Menston                |9:49:59  
-            |Burley-in-Wharfdale    |9:52:57  
-            |Ben Rhydding           |9:56:41  
-End         |Ilkley                 |9:56:45  
-Start       |Ilkley                 |10:09:55 
-            |...                    |         
-End         |Leeds                  |10:40:38 
-Start       |Leeds                  |11:12:00 
-            |Cross Gates            |11:19:46 
-            |Garforth               |11:44:18 
-            |East Garforth          |11:46:41 
-End         |Micklefield            |11:50:17 
-Start       |Micklefield            |12:10:00 
-            |...                    |         
-            |Bramley                |12:46:23 
-            |New Pudsey             |12:50:50 
-            |Bradford Interchange   |13:04:57 
-End         |Halifax                |13:15:55 
-Start       |Halifax                |13:28:55 
-            |Stowerby Bridge        |13:35:27 
-            |Mytholomroyd           |13:41:02 
-            |Hebden Bridge          |13:45:22 
-End         |Tormorden              |13:51:17 
-Start       |Tormorden              |14:20:42 
-End         |Walsden                |14:23:38 
-Start       |Walsden                |15:03:16 
-            |...                    |         
-            |Brighouse              |15:34:32 
-End         |Mirfield               |15:40:20 
-Start       |Mirfield               |15:58:50 
-            |Ravensthorpe           |16:02:45 
-            |Dewsbury               |16:06:11 
-            |Batley                 |16:09:31 
-            |Morley                 |16:15:07 
-            |Cottingly              |16:18:45 
-End         |Leeds                  |16:28:15 
-Start       |Leeds                  |16:36:48 
-            |...                    |         
-End         |Guiseley               |16:50:56 
-Start (bus) |Guiseley               |17:02:00 
-(bus)       |Baildon                |17:10:00 
-End (bus)   |Shipley                |17:14:00 
-Start       |Shipley                |17:18:44 
-            |Saltaire               |17:21:16 
-            |Bingley                |17:25:38 
-            |Crossflatts            |17:28:32 
-            |Keighley               |17:33:45 
-End         |Steeton & Silsden      |17:37:58 
-Start       |Steeton & Silsden      |17:46:07 
-            |...                    |         
-            |Frizinghall            |18:09:22 
-End         |Bradford Forster Square|18:13:38 
-Start       |Bradford Forster Square|18:29:42 
-            |...                    |         
-            |Apperley Bridge        |18:44:31 
-End         |Kirkstall Forge        |18:51:21 
-Start       |Horsforth              |19:46:52 
-            |Headingly              |19:49:00 
-End         |Burley Park            |19:53:00 
+Change            |Service     |Station                |Time     
+-------------------|------------|-----------------------|---------
+ Start             |Start       |Moorthorpe             |8:05:04  
+                   |End         |Pontefract Baghill     |8:14:13  
+ Walk              |Start       |Pontefract Monkhill    |8:44:54  
+                   |            |Pontefract Tanshelf    |8:47:54  
+                   |            |Featherstone           |8:52:06  
+                   |            |Streethouse            |8:55:35  
+                   |            |Wakefield Kirkgate     |9:06:24  
+                   |            |Wakefield Westgate     |9:13:18  
+                   |End         |Leeds                  |9:27:09  
+ In Station        |Start       |Leeds                  |9:31:49  
+                   |            |Kirkstall Forge        |9:38:41  
+                   |            |Guiseley               |9:46:22  
+                   |            |Menston                |9:49:59  
+                   |            |Burley-in-Wharfdale    |9:52:57  
+                   |            |Ben Rhydding           |9:56:41  
+                   |End         |Ilkley                 |9:56:45  
+ In Station        |Start       |Ilkley                 |10:09:55 
+                   |            |...                    |         
+                   |End         |Leeds                  |10:40:38 
+ In Station        |Start       |Leeds                  |11:12:00 
+                   |            |Cross Gates            |11:19:46 
+                   |            |Garforth               |11:44:18 
+                   |            |East Garforth          |11:46:41 
+                   |End         |Micklefield            |11:50:17 
+In Station         |Start       |Micklefield            |12:10:00 
+                   |            |...                    |         
+                   |            |Bramley                |12:46:23 
+                   |            |New Pudsey             |12:50:50 
+                   |            |Bradford Interchange   |13:04:57 
+                   |End         |Halifax                |13:15:55 
+ In Station        |Start       |Halifax                |13:28:55 
+                   |            |Stowerby Bridge        |13:35:27 
+                   |            |Mytholomroyd           |13:41:02 
+                   |            |Hebden Bridge          |13:45:22 
+                   |End         |Tormorden              |13:51:17 
+ In Station        |Start       |Tormorden              |14:20:42 
+                   |End         |Walsden                |14:23:38 
+ In Station        |Start       |Walsden                |15:03:16 
+                   |            |...                    |         
+                   |            |Brighouse              |15:34:32 
+                   |End         |Mirfield               |15:40:20 
+ In Station        |Start       |Mirfield               |15:58:50 
+                   |            |Ravensthorpe           |16:02:45 
+                   |            |Dewsbury               |16:06:11 
+                   |            |Batley                 |16:09:31 
+                   |            |Morley                 |16:15:07 
+                   |            |Cottingly              |16:18:45 
+                   |End         |Leeds                  |16:28:15 
+ In Station        |Start       |Leeds                  |16:36:48 
+                   |            |...                    |         
+                   |End         |Guiseley               |16:50:56 
+ In Station        |Start (bus) |Guiseley               |17:02:00 
+ (rail replacement)|(bus)       |Baildon                |17:10:00 
+                   |End (bus)   |Shipley                |17:14:00 
+ In Station        |Start       |Shipley                |17:18:44 
+                   |            |Saltaire               |17:21:16 
+                   |            |Bingley                |17:25:38 
+                   |            |Crossflatts            |17:28:32 
+                   |            |Keighley               |17:33:45 
+                   |End         |Steeton & Silsden      |17:37:58 
+ In Station        |Start       |Steeton & Silsden      |17:46:07 
+                   |            |...                    |         
+                   |            |Frizinghall            |18:09:22 
+                   |End         |Bradford Forster Square|18:13:38 
+ In Station        |Start       |Bradford Forster Square|18:29:42 
+                   |            |...                    |         
+                   |            |Apperley Bridge        |18:44:31 
+                   |End         |Kirkstall Forge        |18:51:21 
+ Walk & Bus (50A)  |Start       |Horsforth              |19:46:52 
+                   |            |Headingly              |19:49:00 
+ End               |End         |Burley Park            |19:53:00 
