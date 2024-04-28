@@ -50,6 +50,10 @@ mark {
   color: var(--white);
 }
 
+#id > div {
+  padding: 10px;
+}
+
 table {
   margin-left: auto;
   margin-right: auto;

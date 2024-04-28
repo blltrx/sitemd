@@ -21,8 +21,17 @@ i use they/she pronouns:
 
 this website is just a private git repo deployed using cloudflare [pages.dev](https://pages.cloudflare.com/), and build from markdown using [a little python script](https://github.com/blltrx/htmldown).
 
+## site plan?
+
+i want to do some things!
+
+- i want to make an rss feed, that seems fun
+- i've got to put the video up for [platform zero - stockport](/projects/plat0)
+- i need to compress and resize the home image of me
+- i should probably make my important images use *modern* file formats but i don't really care that much
+
 ## privacy
 
-the johnvertisement below means your ip might be shared with citrons.xyz.
+the johnvertisement below means your ip might be shared with [citrons.xyz](https://citrons.xyz).
 
 <iframe src="https://john.citrons.xyz/embed?ref=roseis.gay" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
