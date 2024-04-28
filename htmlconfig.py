@@ -53,5 +53,10 @@ FOOTER = """
     <a href="/other/styleguide"> styleguide</a><br>
     </div>
     </div>
-    <img src=https://i.imgur.com/FoJSh5v.gif>
+    
+    <div>
+        <a href=https://frogofthemonth.carrd.co>
+        <img src=https://i.imgur.com/FoJSh5v.gif>
+        </a>
+    </div>    
 """
