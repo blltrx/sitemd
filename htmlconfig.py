@@ -34,29 +34,31 @@ TOPBAR = """
 
 FOOTER = """
     <div id="foot" class="monospaced">
-    <div>
-    bellatrix.dev<br>
-    roseis.gay 🏳️‍⚧️🏳️‍🌈 <br>
-    <a class="coverLink" href="mailto:hello@roseis.gay">hello@roseis.gay</a><br>
-    sonya nye © mmxxiv
-    </div>
+        <div>
+            bellatrix.dev<br>
+            roseis.gay 🏳️‍⚧️🏳️‍🌈 <br>
+            <a class="coverLink" href="mailto:hello@roseis.gay">hello@roseis.gay</a><br>
+            sonya nye © mmxxiv
+        </div>
 
-    <div>
-    navigation<br>
-    <a href="/"> home</a><br>
-    <a href="/projects"> projects</a><br>
-    <a href="/meta"> meta</a><br>
-    </div>
+        <div>
+            navigation<br>
+            <a href="/"> home</a><br>
+            <a href="/projects"> projects</a><br>
+            <a href="/meta"> meta</a><br>
+        </div>
 
-    <div>
-    other<br>
-    <a href="/other/styleguide"> styleguide</a><br>
-    </div>
-    </div>
-    
-    <div>
-        <a href=https://frogofthemonth.carrd.co>
-        <img src=https://i.imgur.com/FoJSh5v.gif>
-        </a>
-    </div>    
+        <div>
+            other<br>
+            <a href="/other/styleguide"> styleguide</a><br>
+        </div>
+        <div>
+            <a href=https://frogofthemonth.carrd.co>
+            <img src=https://i.imgur.com/FoJSh5v.gif>
+            </a>
+            <a href=https://alyx.sh/posts/hrt-geocities-buttons/>
+            <img src=/assets/8831-estrogen.gif>
+            </a>
+        </div>    
+        </div>
 """
