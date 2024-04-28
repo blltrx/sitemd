@@ -82,7 +82,7 @@ the key issues with this run were:
 i'll attempt again either early june or mid september.
 
 below is my log. i forgot to keep track of the service headcode, so instead i've marked out where i borded and alighted each service. i've also marked my change, as in this run i did change via bus between two stations.
- Change            |Service     |Station                |Time     
+Change            |Service     |Station                |Time     
 -------------------|------------|-----------------------|---------
  Start             |Start       |Moorthorpe             |8:05:04  
                    |End         |Pontefract Baghill     |8:14:13  
