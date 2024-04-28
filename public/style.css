@@ -50,6 +50,11 @@ mark {
   color: var(--white);
 }
 
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 ::selection {
   background-color: var(--secondary-purple);
   color: var(--black);
