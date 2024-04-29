@@ -27,8 +27,6 @@ i want to do some things!
 
 - i want to make an rss feed, that seems fun
 - i've got to put the video up for [platform zero - stockport](/projects/plat0)
-- i need to compress and resize the home image of me
-- i should probably make my important images use *modern* file formats but i don't really care that much
 
 ## privacy
 
