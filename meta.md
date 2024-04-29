@@ -11,6 +11,9 @@ i use they/she pronouns:
 - by that i mean i use she/her pronouns
 - *but* i don't quite entirely identify as a woman, so my additonal use of they/them pronouns is a public signifier of that
 
+## rss
+i have an rss feed now! you can find it at [/feed.xml](/feed.xml).
+
 ## contact and socials
 
 - email (preferred): [hello@roseis.gay](mailto:hello@roseis.gay)

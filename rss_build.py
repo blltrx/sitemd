@@ -1,11 +1,14 @@
+#!/usr/bin/python3
 import tomllib
 PAGE_HEADING = """
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 
 <channel>
     <title>rose / bellatrix</title>
-    <link>https://roseis.gay</link>
+    <link>https://roseis.gay/feed.xml</link>
+    <language>en-gb</language>
+    <copyright>sonya nye &#x2117;</copyright>
     <description>rss feed for bellatrix.dev and roseis.gay</description>
     """
 
@@ -36,8 +39,9 @@ def main():
         description = item.get('description')
         page_body += xmlify(title, link, description)
 
-    with open("public/rss.xml", "w") as f:
+    with open("public/feed.xml", "w") as f:
         f.write(PAGE_HEADING + page_body + PAGE_END)
+        print("rss.toml -> public/feed.xml SUCCESS")
 
 
 if __name__ == "__main__":

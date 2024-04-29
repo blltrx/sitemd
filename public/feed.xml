@@ -1,0 +1,19 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+    <title>rose / bellatrix</title>
+    <link>https://roseis.gay/feed.xml</link>
+    <language>en-gb</language>
+    <copyright>sonya nye &#x2117;</copyright>
+    <description>rss feed for bellatrix.dev and roseis.gay</description>
+    
+    <item>
+        <title> i have an rss feed now? </title>
+        <description> i have an rss feed now, i'll probably do something with it at some point </description>
+        <link> /meta </link>
+    </item>
+    
+</channel>
+</rss>
