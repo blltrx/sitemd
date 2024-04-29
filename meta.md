@@ -34,4 +34,4 @@ i want to do some things!
 
 the johnvertisement below means your ip might be shared with [citrons.xyz](https://citrons.xyz).
 
-<iframe src="https://john.citrons.xyz/embed?ref=roseis.gay" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
+<iframe src="https://john.citrons.xyz/embed?ref=roseis.gay" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;" loading=lazy></iframe>
