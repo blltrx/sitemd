@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 import tomllib
-PAGE_HEADING = """
-<?xml version="1.0" encoding="UTF-8"?>
+PAGE_HEADING = """<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 
 <channel>
