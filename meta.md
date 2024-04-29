@@ -22,7 +22,7 @@ i have an rss feed now! you can find it at [/feed.xml](/feed.xml).
 - github: [@blltrx](https://github.com/blltrx)
 - youtube: [@blltrx](https://www.youtube.com/@blltrx)
 
-this website is just a private git repo deployed using cloudflare [pages.dev](https://pages.cloudflare.com/), and build from markdown using [a little python script](https://github.com/blltrx/htmldown).
+this website is just a [git repo](https://github.com/blltrx/sitemd) deployed using cloudflare [pages.dev](https://pages.cloudflare.com/), and build from markdown using [a little python script](https://github.com/blltrx/htmldown).
 
 ## site plan?
 
