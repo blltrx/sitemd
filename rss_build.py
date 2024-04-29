@@ -15,16 +15,12 @@ PAGE_END = """
 """
 
 
-def xmlify(title: str, links: list[str] | None, description: str) -> str:
-    link_string = ""
-    if links:
-        for link in links:
-            link_string += f"<link> {link} </link>\n\t\t"
+def xmlify(title: str, link: str, description: str) -> str:
     return f"""
     <item>
         <title> {title} </title>
         <description> {description} </description>
-        {link_string}
+        <link> {link} </link>
     </item>
     """
 
@@ -36,9 +32,9 @@ def main():
     page_body = ""
     for item in toml['item']:
         title = item.get('title')
-        links = item.get('links')
+        link = item.get('link')
         description = item.get('description')
-        page_body += xmlify(title, links, description)
+        page_body += xmlify(title, link, description)
 
     with open("public/rss.xml", "w") as f:
         f.write(PAGE_HEADING + page_body + PAGE_END)

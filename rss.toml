@@ -1,4 +1,4 @@
 [[item]]
 title = "test item"
-links = ["/projects/plat0", "/meta"]
+link = "/projects/plat0"
 description = "ahhhh"
