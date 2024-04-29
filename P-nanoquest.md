@@ -22,7 +22,7 @@ for the polyethylene oxide (PEO) solutions we initially used PEO with a molecula
 
 we can spin the solutions by placing them in a syringe, and applying a high potential between the needle and a conductive collection plate while slowly pushing the solution out of the syringe with a syringe pump. we generally used an acceleration voltage of 5kV, a distance of <5cm, and an extrusion rate of 0.25ml/h to 0.5ml/h.
 
-![a needle full of a cellulose based electrospinning solution](/assets/IMAGE-a-solution.jpg) [download](https://files.bellatrix.dev/nano/IMAGE-a-solution.jpg)
+![a needle full of a cellulose based electrospinning solution](/assets/IMAGE-a-solution.webp) [download](https://files.bellatrix.dev/nano/IMAGE-a-solution.jpg)
 
 our method sheet is [available for download](https://files.bellatrix.dev/nano/main.pdf) via files.bellatrix.dev
 
@@ -34,7 +34,7 @@ we observed in 2021 that the age of our cellulose solutions may affect its abili
 
 we created a range of solutions, and spun them once a week over a period of 6 weeks.
 
-![results table showing that across four solutions, the most success is found between 2-3 weeks](/assets/CHART-initial-ageing.png) [download](https://files.bellatrix.dev/nano/CHART-initial-ageing.png)
+![results table showing that across four solutions, the most success is found between 2-3 weeks](/assets/CHART-initial-ageing.webp) [download](https://files.bellatrix.dev/nano/CHART-initial-ageing.png)
 
 our results matched our initial observations, and suggested that the phosphate solutions are optimal at around 2 to 3 weeks. we didn’t have enough data to draw conclusions of the acetate solutions.
 
@@ -141,7 +141,7 @@ from the graph above it's clear that while the desiccator has the minimal amount
 we tried to build a rotating drum to act as a collector plate. our prototype, a aluminium can with a motor attached, did work but had too much friction to spin consistently.  
 we are currently building an improved one
 
-![prototype rotating drum, made from an aluminium drinks can](/assets/IMAGE-drum-and-arduino.jpg) [download](https://files.bellatrix.dev/nano/IMAGE-drum-and-arduino.jpg)  
+![prototype rotating drum, made from an aluminium drinks can](/assets/IMAGE-drum-and-arduino.webp) [download](https://files.bellatrix.dev/nano/IMAGE-drum-and-arduino.jpg)  
 the rotating drum allows us to align our fibres on collection, but also stretch them slightly to further reduce to diameter.
 
 ---
@@ -158,7 +158,7 @@ this is in progress currently, we are currently perameter testing 4M PEO
 we have attended the 2022/3 science conferences at Tonbridge School and presented our research on electrospinning nanofibres as a research poster  
 we also attended the 2022/3 IRIS London conferences and presented our research as both a poster, and a talk to 400 people.  
 
-![research poster for the 2022 conferences. Contains a summary of the infomating in the method document](/assets/poster-2022.png) [download](https://files.bellatrix.dev/nano/poster-2022.pdf)
+![research poster for the 2022 conferences. Contains a summary of the infomating in the method document](/assets/poster-2022.webp) [download](https://files.bellatrix.dev/nano/poster-2022.pdf)
 
   
 a lot of time (arguably too much) was dedicated to our b r a n d i n g. we made a logo, a theme colour, and a whole lot of posters and documents.  
