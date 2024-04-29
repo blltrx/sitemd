@@ -30,7 +30,7 @@ h1 {
 
 a {
   text-decoration: none;
-  font-style: italics;
+  font-style: italic;
   color: var(--blue);
 }
 
