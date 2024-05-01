@@ -66,7 +66,7 @@ having come back from my first [West Yorkshire rail speedrun](/projects/wyrail) 
 
 arriving in MAN i was able to get the 0633 NT service to BUX, and alight at SPT on platform zero.
 
-now, a full service seems to call at the platform on Wednesdays and Thursdays (late April '24). i made a web scraper that helped me with this platform available on [github](https://github.com/blltrx/plat0).
+now, a full service seems to call at the platform on Wednesdays and Thursdays (late April '24). i made a web scraper that helped me with this platform available on [github](https://github.com/blltrx/plat0). if you're planning on going, go on a Wednesday.
 
 (i still need to edit the little video, it'll be up soon)
 
