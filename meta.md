@@ -28,7 +28,6 @@ this website is just a [git repo](https://github.com/blltrx/sitemd) deployed usi
 
 i want to do some things!
 
-- i want to make an rss feed, that seems fun
 - i've got to put the video up for [platform zero - stockport](/projects/plat0)
 
 ## privacy
