@@ -12,4 +12,4 @@ more stuff:
 
 - yet to come
 
-![/assets/azuuuma.webp]
+![azuuuuma!! (BR Class 80x LNER)](/assets/azuuuma.webp)
