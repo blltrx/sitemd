@@ -17,7 +17,7 @@ HEADERS = """
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="website for rose / bellatrix">
     <meta property="og:title" content="blltrx" />
-    <meta property="og:image" content="/assets/things.webp" />
+    <meta property="og:image" content="/assets/azuuuma.webp" />
     <title>rose / bellatrix</title>
     <link rel="stylesheet" href="/style.css" />
 """

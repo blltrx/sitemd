@@ -11,3 +11,5 @@ highlights:
 more stuff:
 
 - yet to come
+
+![/assets/azuuuma.webp]
