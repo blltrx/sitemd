@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 import tomllib
+PATH = "/home/blltrx/devel/sitemd/public/feed.xml"
 PAGE_HEADING = """<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 
@@ -38,9 +39,9 @@ def main():
         description = item.get('description')
         page_body += xmlify(title, link, description)
 
-    with open("public/feed.xml", "w") as f:
+    with open(PATH, "w") as f:
         f.write(PAGE_HEADING + page_body + PAGE_END)
-        print("rss.toml -> public/feed.xml SUCCESS")
+        print(f"[RSSF]: output at {PATH}")
 
 
 if __name__ == "__main__":

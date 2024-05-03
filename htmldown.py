@@ -142,7 +142,7 @@ def main() -> None:
         with open(outputpath, "w") as f:
             f.write(pagestring)
             f.close()
-        print(f"output at '{outputpath}'")
+        print(f"[HTML]: output at '{outputpath}'")
     except FileNotFoundError as exception:
         if DEBUG:
             print(f"[DEBUG]: {exception}")
