@@ -11,4 +11,5 @@ done
 read -p "press any key to push to repo"
 git add .
 git commit -m "new build commit"
-git push
+read -p "RSS FEED UPDATES: files comitted -> git push manually"
+# git push
