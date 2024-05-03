@@ -10,5 +10,5 @@ done
 
 git add .
 git commit -m "new build commit"
-read -p "files comitted -> git push to publish"
+echo "files comitted -> git push to publish"
 # git push
