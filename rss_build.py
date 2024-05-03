@@ -41,7 +41,7 @@ def main():
 
     with open(PATH, "w") as f:
         f.write(PAGE_HEADING + page_body + PAGE_END)
-        print(f"[RSSF]: output at {PATH}")
+        print(f"[RSSF]: output at '{PATH}'")
 
 
 if __name__ == "__main__":
