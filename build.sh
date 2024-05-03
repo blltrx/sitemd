@@ -8,8 +8,7 @@ done
 
 ./rss_build.py
 
-read -p "press any key to push to repo"
 git add .
 git commit -m "new build commit"
-read -p "RSS FEED UPDATES: files comitted -> git push manually"
+read -p "files comitted -> git push to publish"
 # git push
