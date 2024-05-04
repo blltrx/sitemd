@@ -4,6 +4,7 @@ path: projects/plat0.html
 
 # every platform zero ever
 currently at: 7/9 UK plat 0s
+currently at: 7/10 European plat 0s
 
 i love trains for a lot of reasons, but one of them is that it is a human-serving system. like time zones, there is a rigid and predictable structure to it that is (hopefully) smart in design, but sometimes rules are broken and where they are it is usually so that people can actually use said system even if it does sacrifice uniformity. these anomalies in any system are really cool to me, and platform zeros are one of them
 
@@ -13,7 +14,7 @@ i would like to at least visit every platform zero in the UK, as we have the bul
 
 ## Rainham (RAI) and Gravesend (GRV)
 
-30/5/23
+30/05/23
 
 these two stations were quite local at the time, and on a weird and quite long detour from my then usual journey towards London i can hit both of them. so i did!
 
@@ -22,7 +23,7 @@ the platform zero at RAI serves as one terminus of the Thameslink RAI-LUT servic
 
 ## Redhill (RDH)
 
-8/8/23
+08/08/23
 
 while not a usual journey, it is easy to do when i'm already in london, by taking a train to East Croyden, and getting on a TL service to Horsham.
 
@@ -32,7 +33,7 @@ the platform zero at RDH serves the Great Western Railway RDG-GTW line, with 1tp
 
 ## London King's Cross (KGX) and Leeds (LDS)
 
-13/9/23
+13/09/23
 
 with an anytime single bewteen the south east and Leeds paid for by someone else, i can take any train, including the 0703 KGX to LDS from platform zero. i also managed to get a 1st class upgrade for £8! this platform at KGX serves intercity services on the East Coast Mainline, primarily from LNER, but also Lumo, Grand Central, and Hull Trains.
 
@@ -42,7 +43,7 @@ once in Leeds, i took a Northen train to Burley Park (BUY) to take a train back 
 
 ## Doncaster (DON)
 
-7/10/23
+07/10/23
 
 i got an LNER 225 from LDS to DON, and after a 30 min delay due to a power fault on our train we arrived at DON missing my connection. after waiting around for an hour, i was able to get a train to HUL from the platform zero.
 
@@ -99,7 +100,7 @@ there was some talk that Preston's royal mail platform might be converted into a
 
 while i aim to complete every station 'properly', this might not be possible with Edinburgh Haymarket (HYM) as there are no regular passenger services from this platform. from my understanding, it is primarily used as a terminating platform during disruption in Edinburgh (as well as non-passenger movements). this makes it quite difficult to achieve so i may not be able to visit this one 'properly'.
 
-in Europe there is also just one more station, Aarau in Switzerland. you can find [the timetable here](https://www.sbb.ch/content/dam/internet/sbb/downloads/all/reiseinformationen/bahnverkehrsinformation/pdf-fahrplaene/abfahrtsplakate/2024/abfahrtstabellen/AA_231210_ab_2113.pdf.sbbdownload.pdf) via SBB CFF FFS. i will take a train from this platform summer 2024, hopefully completing all the european platform 0's with it.
+in Europe there is also just one more station, Aarau in Switzerland. you can find [the timetable here](https://www.sbb.ch/content/dam/internet/sbb/downloads/all/reiseinformationen/bahnverkehrsinformation/pdf-fahrplaene/abfahrtsplakate/2024/abfahrtstabellen/AA_231210_ab_2113.pdf.sbbdownload.pdf) via SBB CFF FFS.
 
 there are also a couple more in the rest of the world, Lidcombe in Australia as well as Ayase, Haruda, Hasioka, and Kyōto in Japan. travelling outside of Europe is expensive and involves airport security and visas so i don't have plans to see any of these, but i would like to one day.
 
