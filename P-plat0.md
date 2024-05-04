@@ -3,7 +3,7 @@ path: projects/plat0.html
 ---
 
 # every platform zero ever
-currently at: 7/9 UK plat 0s
+currently at: 7/9 UK plat 0s \
 currently at: 7/10 European plat 0s
 
 i love trains for a lot of reasons, but one of them is that it is a human-serving system. like time zones, there is a rigid and predictable structure to it that is (hopefully) smart in design, but sometimes rules are broken and where they are it is usually so that people can actually use said system even if it does sacrifice uniformity. these anomalies in any system are really cool to me, and platform zeros are one of them
