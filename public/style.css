@@ -28,6 +28,15 @@ h1 {
   font-size: 32px;
 }
 
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
 a {
   text-decoration: none;
   font-style: italic;
