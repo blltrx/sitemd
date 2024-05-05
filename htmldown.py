@@ -81,9 +81,7 @@ def createPageString(contentstring: str) -> str:
 <body>
 <div class="contentWrap">
 {topbar}
-<div class="textWrap">
 {contentstring}
-</div>
 {footer}
 </div>
 </body>

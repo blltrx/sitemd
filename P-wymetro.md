@@ -14,10 +14,8 @@ zones to Skipton and Harrogate not shown). within these 5 zones day/season
 tickets are available at a subsized price, with a standard DaySaver (rail-only) 
 ticket is £9.10. with 70 stations on the network, i thought why not speedrun it?
 
-</div>
 ![west yorkshire metro rail map](/assets/wyrailmap.svg)
 map adapted from pdf via [m-card.co.uk](https://www.m-card.co.uk/media/1204/metro-rail-map-zones-1-7-2021.pdf) (without permission)
-<div class="textWrap">
 
 ## attempt 1
 

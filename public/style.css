@@ -38,6 +38,11 @@ a:hover {
   text-decoration: underline;
 }
 
+p {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
 img {
   max-width: 50vw;
   display: block;
