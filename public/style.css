@@ -248,9 +248,21 @@ td {
     padding-right: 5%;
   }
 
-  .textWrap {
-    padding-left: 0%;
-    padding-right: 0%;
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  ul {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  p {
+    padding-left: 5%;
+    padding-right: 5%;
   }
 
   .title {
