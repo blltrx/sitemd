@@ -19,7 +19,10 @@ i would like to at least visit every platform zero in the UK, as we have the bul
 these two stations were quite local at the time, and on a weird and quite long detour from my then usual journey towards London i can hit both of them. so i did!
 
 the platform zero at RAI serves as one terminus of the Thameslink RAI-LUT services with 2tph off-peak, while the platform zero at GRV serves an Southeastern stopping service towards CST via WWA and CHX via SID at 2tph each off-peak. 
+</div>
 <video width=100% autoplay muted loop src="/assets/plat-0_RAI_GRV.mp4">your browser probably doesn't support mp4 files if you see this, sorry! (you can download the video <a href="/assets/plat-0_RAI_GRV.mp4" download>by clicking here</a>!)</video>
+
+<div class="textWrap">
 
 ## Redhill (RDH)
 
@@ -29,7 +32,10 @@ while not a usual journey, it is easy to do when i'm already in london, by takin
 
 the platform zero at RDH serves the Great Western Railway RDG-GTW line, with 1tph off-peak. i got the service towards Gatwick, being run by a BR class 165.
 
+</div>
 <video width="100%" autoplay muted loop src="/assets/plat-0_RDH.mp4">your browser probably doesn't support mp4 files if you see this, sorry! (you can download the video <a href="/assetsplat-0_RDH.mp4" download >by clicking here</a>!</video>
+
+<div class="textWrap">
 
 ## London King's Cross (KGX) and Leeds (LDS)
 
@@ -39,7 +45,10 @@ with an anytime single bewteen the south east and Leeds paid for by someone else
 
 once in Leeds, i took a Northen train to Burley Park (BUY) to take a train back from BUY to LDS, arriving at platform zero (b). the platform zero at LDS serves a variety of services through the West Junction.
 
+</div>
 <video width="100%" autoplay muted loop src="/assets/plat-0_KGX_LDS.mp4">your browser probably doesn't support mp4 files if you see this, sorry! (you can download the video <a href="/assetsplat-0_RDH.mp4" download >by clicking here</a>!</video>
+
+<div class="textWrap">
 
 ## Doncaster (DON)
 
@@ -49,7 +58,10 @@ i got an LNER 225 from LDS to DON, and after a 30 min delay due to a power fault
 
 the platform zero at DON serves Northen services to SCU and HUL via KKS.
 
+</div>
 <video width="100%" autoplay muted loop src="/assets/plat-0_DON.mp4">your browser probably doesn't support mp4 files if you see this, sorry! (you can download the video <a href="/assetsplat-0_RDH.mp4" download >by clicking here</a>!</video>
+
+<div class="textWrap">
 
 ## Stockport (STP)
 
