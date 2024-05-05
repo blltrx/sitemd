@@ -71,6 +71,10 @@ table {
   width: 60vh;
 }
 
+td {
+  text-align: center;
+}
+
 ::selection {
   background-color: var(--secondary-purple);
   color: var(--black);
