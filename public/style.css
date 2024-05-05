@@ -56,6 +56,11 @@ mark {
   color: var(--white);
 }
 
+ul {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
 #foot > div {
   padding: 10px;
 }
@@ -63,6 +68,7 @@ mark {
 table {
   margin-left: auto;
   margin-right: auto;
+  width: 60vh;
 }
 
 ::selection {
