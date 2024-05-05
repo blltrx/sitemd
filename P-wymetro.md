@@ -34,39 +34,39 @@ overall i believe if reattempted on a Saturday i should be able to get my statio
 below is my station log. every first visit of a station is listed, as well as the start and end station for any service i rode (e.g. 2V21 lists Ilkley and Kirkstall Forge as i boarded at Ilkley and alighted at Kirkstall Forge, and all intermediate stations had already been visited).
 
 
-Service Headcode|Station                |Time    
-----------------|-----------------------|--------
-2V18            |Leeds                  |09:33:00 
-                |Kirkstall Forge        |09:39:50 
-                |Guiseley               |09:48:18 
-                |Menston                |09:52:01 
-                |Burley-in-Wharfedale   |09:54:58 
-                |Ben Rhyddling          |09:59:10 
-                |Ilkley                 |10:02:12
-2V21            |Ilkley                 |10:09:47
-                |Kirkstall Forge        |10:31:47
-2P36            |Kirkstall Forge        |10:48:57
-                |Apperley Bridge        |10:54:39
-                |Shipley                |10:59:55
-                |Frizinghall            |11:03:03
-                |Bradford Forster Square|11:07:00
-2K14            |Bradford Interchange   |11:34:58
-                |New Pudsey             |11:45:05
-                |Bramley                |11:49:00
-                |Leeds                  |11:57:11
-2A15            |Leeds                  |12:31:26
-                |Wakefield Westgate     |12:45:00
-                |Wakefield Kirkgate     |12:49:07
-                |Streethouse            |12:57:58
-                |Featherstone           |13:01:53
-                |Pontefract Tanshelf    |13:06:26
-                |Pontefract Monkhill    |13:09:05
-2Y89            |Pontefract Baghill     |13:46:36
-                |Moothorpe              |13:55:18
-2B27            |South Elmsall          |14:43:29
-                |Frizwilliam            |14:48:35
-                |Sandal & Agbrigg       |14:53:40
-                |Wakefield Westgate     |14:58:11
+Service |Station                |Time    
+--------|-----------------------|--------
+2V18    |Leeds                  |09:33:00 
+        |Kirkstall Forge        |09:39:50 
+        |Guiseley               |09:48:18 
+        |Menston                |09:52:01 
+        |Burley-in-Wharfedale   |09:54:58 
+        |Ben Rhyddling          |09:59:10 
+        |Ilkley                 |10:02:12
+2V21    |Ilkley                 |10:09:47
+        |Kirkstall Forge        |10:31:47
+2P36    |Kirkstall Forge        |10:48:57
+        |Apperley Bridge        |10:54:39
+        |Shipley                |10:59:55
+        |Frizinghall            |11:03:03
+        |Bradford Forster Square|11:07:00
+2K14    |Bradford Interchange   |11:34:58
+        |New Pudsey             |11:45:05
+        |Bramley                |11:49:00
+        |Leeds                  |11:57:11
+2A15    |Leeds                  |12:31:26
+        |Wakefield Westgate     |12:45:00
+        |Wakefield Kirkgate     |12:49:07
+        |Streethouse            |12:57:58
+        |Featherstone           |13:01:53
+        |Pontefract Tanshelf    |13:06:26
+        |Pontefract Monkhill    |13:09:05
+2Y89    |Pontefract Baghill     |13:46:36
+        |Moothorpe              |13:55:18
+2B27    |South Elmsall          |14:43:29
+        |Frizwilliam            |14:48:35
+        |Sandal & Agbrigg       |14:53:40
+        |Wakefield Westgate     |14:58:11
 
 ## attempt 2
 
