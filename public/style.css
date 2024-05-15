@@ -243,7 +243,7 @@ td {
   justify-content: space-between;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 780px) {
   .contentWrap {
     padding-left: 5%;
     padding-right: 5%;
