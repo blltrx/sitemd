@@ -66,8 +66,8 @@ mark {
 }
 
 ul {
-  padding-left: 20%;
-  padding-right: 15%;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 #foot > div {
@@ -258,7 +258,7 @@ td {
     padding-right: 5%;
   }
   ul {
-    padding-left: 10%;
+    padding-left: 5%;
     padding-right: 5%;
   }
   p {
