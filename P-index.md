@@ -14,7 +14,4 @@ more stuff:
 - [platform zero focused RealTimeTrains scraper](/projects/plat0-scraper) 🦀
 
 ![azuuuuma!! (BR Class 80x LNER)](/assets/azuuuma.webp "zoom! it's an azuma!")
-<img>
-azuuuuuma!
-</img>
 
