@@ -10,6 +10,11 @@ highlights:
 
 more stuff:
 
-- yet to come
+- [todoist-rs](/projects/todoist-rs) 🦀
+- [platform zero focused RealTimeTrains scraper](/projects/plat0-scraper) 🦀
 
-![azuuuuma!! (BR Class 80x LNER)](/assets/azuuuma.webp)
+![azuuuuma!! (BR Class 80x LNER)](/assets/azuuuma.webp "zoom! it's an azuma!")
+<image>
+azuuuuuma!
+</image>
+
