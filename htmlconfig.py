@@ -28,7 +28,7 @@ TOPBAR = """
       <span>/</span>
       <a href="/projects" class="pink spacedLink">projects</a>
       <span>/</span>
-      <a href="/meta" class="white spacedLink">meta</a>
+      <a href="/meta" class="white spacedLink">about</a>
     </div>
 """
 
@@ -45,7 +45,7 @@ FOOTER = """
             navigation<br>
             <a href="/"> home</a><br>
             <a href="/projects"> projects</a><br>
-            <a href="/meta"> meta</a><br>
+            <a href="/meta"> meta/about</a><br>
         </div>
 
         <div>

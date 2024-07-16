@@ -1,34 +1,28 @@
 ---
 path: meta.html
 ---
-# meta |-o-| \[-o-\] |-o-|
+# meta (about) |-o-| \[-o-\] |-o-|
 
-## $whoami
-
-beyond the information at home, i usually go by rose or bellatrix (blltrx) online, which is generally all lowercase.
-i use they/she pronouns:
-
-- by that i mean i use she/her pronouns
-- *but* i don't quite entirely identify as a woman, so my additonal use of they/them pronouns is a public signifier of that
+## whoami
+blltrx.
+a vaguely puppygirl catgirl, a big fan of trains, and a capital letter hater. beyond the information on the home page, i usually go by rose or bellatrix (blltrx) online, which is generally all lowercase.
+i use they/she pronouns and am transfemme i guess (i don't quite entirely identify as a woman, but it seems pretty close, but also i don't really care), and i'm a big woman fan (commonly referred to as a lesbian)
 
 ## rss
-i have an rss feed now! you can find it at [/feed.xml](/feed.xml).
+i have an rss feed now! you can find it at [/feed.xml](/feed.xml). i don't do much with it, but i really like them.
 
 ## contact and socials
 
 - email (preferred): [hello@roseis.gay](mailto:hello@roseis.gay)
-- insta: [_sonya.jpg](https://www.instagram.com/_sonya.jpg/)
-- twitter: [_sonyatwt](https://twitter.com/_sonyatwt)
-- github: [@blltrx](https://github.com/blltrx)
-- youtube: [@blltrx](https://www.youtube.com/@blltrx)
+- insta: [_sonya.jpg](https://www.instagram.com/_sonya.jpg/) (lots of train pictures)
+- twitter: [blltrxrose](https://twitter.com/blltrxrose) (i think i'm much funnier than i am)
+- github: [@blltrx](https://github.com/blltrx) (i'm bad at rust)
 
 this website is just a [git repo](https://github.com/blltrx/sitemd) deployed using cloudflare [pages.dev](https://pages.cloudflare.com/), and build from markdown using [a little python script](https://github.com/blltrx/htmldown).
 
 ## site plan?
 
-i want to do some things!
-
-- i've got to put the video up for [platform zero - stockport](/projects/plat0)
+right now, i've got nothing to add! (of course, when fun things happen, i'll put them on my rss feed)
 
 ## privacy
 
