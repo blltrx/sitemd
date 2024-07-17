@@ -3,8 +3,8 @@ path: projects/plat0.html
 ---
 
 # every platform zero ever
-currently at: 7/9 UK plat 0s <br>
-currently at: 7/10 European plat 0s
+currently at: 8/9 UK plat 0s <br>
+currently at: 8/10 European plat 0s
 
 i love trains for a lot of reasons, but one of them is that it is a human-serving system. like time zones, there is a rigid and predictable structure to it that is (hopefully) smart in design, but sometimes rules are broken and where they are it is usually so that people can actually use said system even if it does sacrifice uniformity. these anomalies in any system are really cool to me, and platform zeros are one of them
 
@@ -77,9 +77,19 @@ now, a full service seems to call at the platform on Wednesdays and Thursdays (l
 
 the platform zero at SPT serves EMR and Northen services to SHF and BUX via DVN
 
-## next stop: Cardiff Central (CDF)
+## Cardiff Central (CDF)
 
-the platform zero at CDF serves early morning XC services and TfW (AW) services to Ebbw Vale Town. i'll try do this one before july.
+17/7/24
+
+Cardiff is a difficult one, because it's consistently out the way of me. however, with a lot of ticket splitting (8 tickets in total) i set off to VIC on an SE service, changed to PAD (making sure to go a convoluted route so i get to use the purple trains) and get a GWR service to GCR. here, i planned to change to a XC service the rest of the way to CDF, but typical of XC, it was cancelled. thankfully a kind GWR guard let me use my XC ticket on their service, and i made it to CDF. from there, i got a TfW service to PYE from the platform.
+
+the platform zero at CDF serves early morning XC services and TfW (AW) services to EBB.
+
+i need to edit the video it'll be here soon.
+
+## next stop: Aarau
+
+my issue with haymarket is that there are no timetabled services to/from it's platform zero. so while i work out how to tackle that, i'm planning to do the only european platform zero outside the UK, Aarau in Switzerland. Aarau's platform zero serves one S29 early morning service to Turgi on some days. i'll do this by mid September 
 
 ## where are the others?
 
@@ -94,17 +104,17 @@ i've already been to:
 -   Leeds (LDS)
 -   Doncaster (DON)
 -   Stockport (SPT)
+-   Cardiff Central (CDF)
 
 and am yet to go to:
 
--   Cardiff Central (CDF)
 -   Edinburgh Haymarket (HYM)
 
 there was some talk that Preston's royal mail platform might be converted into a platform zero, but this seemed to based on increased service because of HS2 phase 2, so idk if this will happen (and also i have not seen any official infomation in the first place, this is not a source please don't cite this)
 
 while i aim to complete every station 'properly', this might not be possible with Edinburgh Haymarket (HYM) as there are no regular passenger services from this platform. from my understanding, it is primarily used as a terminating platform during disruption in Edinburgh (as well as non-passenger movements). this makes it quite difficult to achieve so i may not be able to visit this one 'properly'.
 
-in Europe there is also just one more station, Aarau in Switzerland. you can find [the timetable here](https://www.sbb.ch/content/dam/internet/sbb/downloads/all/reiseinformationen/bahnverkehrsinformation/pdf-fahrplaene/abfahrtsplakate/2024/abfahrtstabellen/AA_231210_ab_2113.pdf.sbbdownload.pdf) via SBB CFF FFS.
+in Europe there is also just one more station, Aarau in Switzerland. you can find [the timetable here](https://www.sbb.ch/content/dam/internet/sbb/downloads/multi/reiseinformationen/bahnverkehrsinformation/pdf-fahrplaene/abfahrtsplakate/2024/abfahrtstabellen/AA_231210_ab_2113.pdf.sbbdownload.pdf) via SBB CFF FFS.
 
 there are also a couple more in the rest of the world, Lidcombe in Australia as well as Ayase, Haruda, Hasioka, and Kyōto in Japan. travelling outside of Europe is expensive and involves airport security and visas so i don't have plans to see any of these, but i would like to one day.
 
