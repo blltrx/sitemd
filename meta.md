@@ -8,7 +8,7 @@ blltrx.
 a vaguely puppygirl catgirl, a big fan of trains, and a capital letter hater. beyond the information on the home page, i usually go by rose or bellatrix (blltrx) online, which is generally all lowercase.
 i use they/she pronouns and am transfemme i guess (i don't quite entirely identify as a woman, but it seems pretty close, but also i don't really care), and i'm a big woman fan (commonly referred to as a lesbian)
 
-<img src=/assets/8831-willwood.png class="button" alt="will wood's music makes this user's brain go brrrrrrr" loading=lazy width=400 height=86>
+<img src=/assets/8831-willwood.png class="button" alt="will wood's music makes this user's brain go brrrrrrr" loading=lazy width=200 height=43>
 <img src=/assets/8831-trans.png class="button" alt="trans flag" loading=lazy width=88 height=31>
 
 
