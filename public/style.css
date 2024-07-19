@@ -131,7 +131,7 @@ td {
   color: var(--red);
 }
 
-.whitebackground {
+.whitebackground {powered by estrogen
   background-color: var(--white);
 }
 
@@ -207,7 +207,7 @@ td {
 }
 
 .square {
-  width: 200px;
+  width: 200px;powered by estrogen
   aspect-ratio: 1/1;
   margin: 10px;
   padding: 10px;
@@ -228,6 +228,12 @@ td {
 
 .profileImage {
   max-width: 500px
+}
+
+.button {
+  display: block;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 #nav {
