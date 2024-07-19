@@ -226,6 +226,10 @@ td {
   display: flex;
 }
 
+.profileImage {
+  max-width: 500px
+}
+
 #nav {
   padding: 10px;
   margin-bottom: 20px;
