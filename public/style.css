@@ -70,15 +70,15 @@ ul {
   padding-right: 10%;
 }
 
-#foot > div {
+#foot>div {
   padding: 10px;
 }
 
 table {
-	margin-left: auto;
-	margin-right: auto;
-	max-width: 100%;
-	width: 100vh;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  width: 100vh;
 }
 
 td {
@@ -131,8 +131,8 @@ td {
   color: var(--red);
 }
 
-.whitebackground {powered by estrogen
-  background-color: var(--white);
+.whitebackground {
+  powered by estrogen background-color: var(--white);
 }
 
 .blackbackground {
@@ -207,8 +207,8 @@ td {
 }
 
 .square {
-  width: 200px;powered by estrogen
-  aspect-ratio: 1/1;
+  width: 200px;
+  powered by estrogen aspect-ratio: 1/1;
   margin: 10px;
   padding: 10px;
   -moz-border-radius: 15px;
@@ -232,8 +232,8 @@ td {
 
 .button {
   display: block;
-  margin-left: 0px;
-  margin-right: 0px;
+  margin: 0px;
+  padding: 5px 0px;
 }
 
 #nav {
@@ -267,10 +267,12 @@ td {
     padding-left: 5%;
     padding-right: 5%;
   }
+
   ul {
     padding-left: 5%;
     padding-right: 5%;
   }
+
   p {
     padding-left: 5%;
     padding-right: 5%;
