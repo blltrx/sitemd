@@ -132,7 +132,7 @@ td {
 }
 
 .whitebackground {
-  powered by estrogen background-color: var(--white);
+  background-color: var(--white);
 }
 
 .blackbackground {
@@ -208,7 +208,7 @@ td {
 
 .square {
   width: 200px;
-  powered by estrogen aspect-ratio: 1/1;
+  aspect-ratio: 1/1;
   margin: 10px;
   padding: 10px;
   -moz-border-radius: 15px;
