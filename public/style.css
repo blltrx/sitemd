@@ -1,11 +1,8 @@
 :root {
   --black: #121213;
-  --dark: #1b1b1d;
-  --grey: #4a4a4f;
+  --dark: #282A36;
   --white: #CFCFCF;
   --purple: #791EB4;
-  --red: #CA054D;
-  --green: #71D26F;
   --blue: #24ACD4;
   --pink: #F2AFFD;
   --secondary-purple: #EED5FF;
@@ -127,10 +124,6 @@ td {
   color: var(--white);
 }
 
-.red {
-  color: var(--red);
-}
-
 .whitebackground {
   background-color: var(--white);
 }
@@ -143,10 +136,6 @@ td {
   background-color: var(--dark);
 }
 
-.greybackground {
-  background-color: var(--grey);
-}
-
 .pinkbackground {
   background-color: var(--pink);
 }
@@ -157,14 +146,6 @@ td {
 
 .purplebackground {
   background-color: var(--purple);
-}
-
-.greenbackground {
-  background-color: var(--green);
-}
-
-.redbackground {
-  background-color: var(--red);
 }
 
 .gradbackground {
