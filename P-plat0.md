@@ -85,7 +85,7 @@ Cardiff is a difficult one, because it's consistently out the way of me. however
 
 the platform zero at CDF serves early morning XC services and TfW (AW) services to EBB.
 
-i need to edit the video it'll be here soon.
+<video width="100%" autoplay muted loop src="/assets/plat-0_SPT.mp4">your browser probably doesn't support mp4 files if you see this, sorry! (you can download the video <a href="/assetsplat-0_RDH.mp4" download >by clicking here</a>!</video>
 
 ## next stop: Aarau
 
