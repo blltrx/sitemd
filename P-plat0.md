@@ -87,9 +87,9 @@ the platform zero at CDF serves early morning XC services and TfW (AW) services 
 
 <video width="100%" autoplay muted loop src="/assets/plat-0_CDF.mp4">your browser probably doesn't support mp4 files if you see this, sorry! (you can download the video <a href="/assetsplat-0_RDH.mp4" download >by clicking here</a>!</video>
 
-## next stop: Aarau
+## next stop: Edinburgh Haymarket (HYM)
 
-my issue with haymarket is that there are no timetabled services to/from it's platform zero. so while i work out how to tackle that, i'm planning to do the only european platform zero outside the UK, Aarau in Switzerland. Aarau's platform zero serves one S29 early morning service to Turgi on some days. i'll do this by mid September 
+idk how i'm going to approach this one.
 
 ## where are the others?
 
@@ -114,7 +114,7 @@ there was some talk that Preston's royal mail platform might be converted into a
 
 while i aim to complete every station 'properly', this might not be possible with Edinburgh Haymarket (HYM) as there are no regular passenger services from this platform. from my understanding, it is primarily used as a terminating platform during disruption in Edinburgh (as well as non-passenger movements). this makes it quite difficult to achieve so i may not be able to visit this one 'properly'.
 
-in Europe there is also just one more station, Aarau in Switzerland. you can find [the timetable here](https://www.sbb.ch/content/dam/internet/sbb/downloads/multi/reiseinformationen/bahnverkehrsinformation/pdf-fahrplaene/abfahrtsplakate/2024/abfahrtstabellen/AA_231210_ab_2113.pdf.sbbdownload.pdf) via SBB CFF FFS.
+in Europe there is also just one more station, Aarau in Switzerland. you can find [the timetable here](https://www.sbb.ch/content/dam/internet/sbb/downloads/multi/reiseinformationen/bahnverkehrsinformation/pdf-fahrplaene/abfahrtsplakate/2024/abfahrtstabellen/AA_231210_ab_2113.pdf.sbbdownload.pdf) via SBB CFF FFS. I intend to do this at some point.
 
 there are also a couple more in the rest of the world, Lidcombe in Australia as well as Ayase, Haruda, Hasioka, and Kyōto in Japan. travelling outside of Europe is expensive and involves airport security and visas so i don't have plans to see any of these, but i would like to one day.
 
