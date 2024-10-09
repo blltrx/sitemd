@@ -4,6 +4,12 @@ path: projects/wymetro.html
 
 # speedrunning the national rail west yorkshire metro area
 
+<!--toc:start-->
+- [speedrunning the national rail west yorkshire metro area](#speedrunning-the-national-rail-west-yorkshire-metro-area)
+  - [attempt 1](#attempt-1)
+  - [attempt 2](#attempt-2)
+<!--toc:end-->
+
 'Metro' is a brand belonging to the West Yorkshire Combined Authority (WYCA),
 since the West Yorkshire Passenger Transport Executive was dissolved on April
 1st, 2014. WYCA, amongst other things, sets regional transport policy, including providing funding bus 
@@ -81,9 +87,9 @@ the key issues with this run were:
 - inefficient start time and location. i tried to make Pontefract Baghill one of the first stations so i didn't have to deal with it later, which turned out to be a bad idea. i could have started up to two hours earlier which would have given me the time to complete the run. i also could have saved time by starting at Walsden, or Knottingly.
 - delays. there were delays of upto 40 mins towards york, slowing me down doing the Micklefield branch.
 - inefficient routing. i should have got a bus from Steeton & Silsden to Ilkley when doing the Airedale and Wharfedale lines to save me doubling back on myself. 
-i'll attempt again either early june or mid september.
+i'll attempt again october '24.
 
-below is my log. i forgot to keep track of the service headcode, so instead i've marked out where i borded and alighted each service. i've also marked my change, as in this run i did change via bus between two stations.
+below is my log. i forgot to keep track of the service headcode, so instead i've marked out where i boarded and alighted each service. i've also marked my change, as in this run i did change via bus between two stations.
 
 Change             |Service     |Station                |Time     
 -------------------|------------|-----------------------|---------
