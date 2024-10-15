@@ -8,9 +8,10 @@ blltrx.
 a vaguely puppygirl catgirl, a big fan of trains, and a capital letter hater. beyond the information on the home page, i usually go by rose or bellatrix (blltrx) online, which is generally all lowercase.
 
 i use they/she pronouns and am transfemme i guess (i don't quite entirely identify as a woman, but it seems pretty close, but also i don't really care), and i'm a big woman fan (commonly referred to as a lesbian)
-
-<img src=/assets/8831-willwood.png class="button" alt="will wood's music makes this user's brain go brrrrrrr" loading=lazy width=200 height=43>
-<a href="https://badge.les.bi"><img title="trans lesbi"  src="https://badge.les.bi/88x31/trans/lesbi/heart-split/outset.svg"></a>
+<div>
+  <img src=/assets/8831-willwood.png class="button" alt="will wood's music makes this user's brain go brrrrrrr" loading=lazy width=200 height=43>
+  <a href="https://badge.les.bi"><img title="trans lesbi"  src="https://badge.les.bi/88x31/trans/lesbi/heart-split/outset.svg"></a>
+</div>
 ## rss
 i have an rss feed now! you can find it at [/feed.xml](/feed.xml). i don't do much with it, but i really like them.
 
