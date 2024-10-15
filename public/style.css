@@ -218,6 +218,12 @@ td {
   padding: 5px 0px;
 }
 
+.buttonContainer {
+  display: flex;
+  flex-direcion: row;
+  flex-wrap: wrap;
+}
+
 #nav {
   padding: 10px;
   margin-bottom: 20px;
