@@ -216,8 +216,8 @@ td {
   display: block;
   margin: 0px;
   padding: 5px 5px;
-  height: 63px;
-}
+  height: 31px;
+  max-width: 160px;}
 
 .buttonContainer {
   display: flex;
