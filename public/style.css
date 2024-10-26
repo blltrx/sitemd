@@ -14,14 +14,14 @@
 body {
   background: var(--black);
   color: var(--white);
-  font-family: monospace;
+  font-family: "Lucida Console", monospace;
   padding-top: 20px;
   font-size: 14px;
 }
 
 h1 {
   color: var(--pink);
-  font-family: monospace;
+  font-family: "Lucida Console", monospace;
   font-size: 32px;
 }
 
