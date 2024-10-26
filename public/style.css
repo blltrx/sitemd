@@ -14,14 +14,14 @@
 body {
   background: var(--black);
   color: var(--white);
-  font-family: 'Courier New', Courier, monospace;
+  font-family: monospace;
   padding-top: 20px;
   font-size: 14px;
 }
 
 h1 {
   color: var(--pink);
-  font-family: 'Courier New', Courier, monospace;
+  font-family: monospace;
   font-size: 32px;
 }
 
