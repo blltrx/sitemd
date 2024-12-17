@@ -7,3 +7,8 @@ description = "i have an rss feed now, i'll probably do something with it at som
 title = "Cardiff platform zero complete!"
 link = "/projects/plat0"
 description = "finally, i've visited the platform zero at Cardiff, bringing my total to 8/9 UK platforms and 8/10 european ones."
+
+[[item]]
+title = "Northumberland Line visit!"
+link = "/projects/northumberlandline"
+description = "i went to visit the newly reopened Northumberland line from Newcastle to Ashington when it opened on sunday!"
