@@ -18,6 +18,7 @@ i have an rss feed now! you can find it at [/feed.xml](/feed.xml). i don't do mu
 ## contact and socials
 
 - email (preferred): [hello@roseis.gay](mailto:hello@roseis.gay)
+- tumblr: [blltrxrose](https://www.tumblr.com/blltrxrose) (literally junk)
 - insta: [_sonya.jpg](https://www.instagram.com/_sonya.jpg/) (lots of train pictures)
 - twitter: [blltrxrose](https://twitter.com/blltrxrose) (i think i'm much funnier than i am)
 - github: [@blltrx](https://github.com/blltrx) (i'm bad at rust)

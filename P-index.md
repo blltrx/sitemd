@@ -12,6 +12,7 @@ more stuff:
 
 - [todoist-rs](/projects/todoist-rs) 🦀
 - [platform zero focused RealTimeTrains scraper](/projects/plat0-scraper) 🦀
+- [Northumberland Line opening](/project/northumberlandline)
 
 ![azuuuuma!! (BR Class 80x LNER)](/assets/azuuuma.webp "zoom! it's an azuma!")
 
