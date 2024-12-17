@@ -1,5 +1,5 @@
 ---
-path: projects/northumderlandline.md
+path: projects/northumberlandline.md
 ---
 
 # visiting the Northumberland Line 
