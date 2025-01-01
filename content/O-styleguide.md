@@ -34,3 +34,8 @@ gradient - linear between (RBGA) 121,30,180,1 and 202,5,77,1
 light purple - #EED5FF
 </div>
 </div>
+
+
+## font
+
+idk the difference between a typeface and font but i don't care that much. i use Casdacia Code for all my things, and if your device has it that's what you'll see here.

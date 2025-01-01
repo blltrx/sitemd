@@ -5,19 +5,21 @@ path: meta.html
 
 ## whoami
 blltrx.
-a vaguely puppygirl catgirl, a big fan of trains, and a capital letter hater. beyond the information on the home page, i usually go by rose or bellatrix (blltrx) online, which is generally all lowercase.
+ex-catgirl puppygirl, a big fan of trains, and a capital letter hater. beyond the information on the home page, i usually go by rose or bellatrix (blltrx) online, which is generally all lowercase.
 
-i use they/she pronouns and am transfemme i guess (i don't quite entirely identify as a woman, but it seems pretty close, but also i don't really care), and i'm a big woman fan (commonly referred to as a lesbian)
+i use they/she pronouns and have some amount of gender, probably a lesbian, and more importantly i'm bad at maths.
+
 <div class="buttonContainer">
   <img src=/assets/8831-willwood.png class="button" alt="will wood's music makes this user's brain go brrrrrrr" loading=lazy width=200 height=43>
   <a href="https://badge.les.bi"> <img src="https://badge.les.bi/88x31/trans/lesbi/heart-split/outset.svg" class="button" ></a>
 </div>
+
 ## rss
 i have an rss feed now! you can find it at [/feed.xml](/feed.xml). i don't do much with it, but i really like them.
 
 ## contact and socials
 
-- email (preferred): [hello@roseis.gay](mailto:hello@roseis.gay)
+- email (preferred contact method): [hello@roseis.gay](mailto:hello@roseis.gay)
 - tumblr: [blltrxrose](https://www.tumblr.com/blltrxrose) (literally junk)
 - insta: [_sonya.jpg](https://www.instagram.com/_sonya.jpg/) (lots of train pictures)
 - twitter: [blltrxrose](https://twitter.com/blltrxrose) (i think i'm much funnier than i am)
