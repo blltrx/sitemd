@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 import tomllib
+INPUT_ROOT = "content/"
 PATH = "/home/blltrx/devel/sitemd/public/feed.xml"
 PAGE_HEADING = """<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
@@ -29,7 +30,7 @@ def xmlify(title: str, link: str, description: str) -> str:
 
 
 def main():
-    with open("rss.toml", "rb") as f:
+    with open(INPUT_ROOT + "rss.toml", "rb") as f:
         toml = tomllib.load(f)
 
     page_body = ""

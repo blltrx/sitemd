@@ -1,6 +1,6 @@
 #! /usr/bin/bash
 
-filelist=$(ls -l *.md | awk '{print $9'})
+filelist=$(ls -l content/*.md | awk '{print $9'})
 for file in $filelist
 do
     ./htmldown.py $file
