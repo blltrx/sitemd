@@ -1,0 +1,273 @@
+:root {
+  --black: #121213;
+  --dark: #282A36;
+  --white: #CFCFCF;
+  --purple: #791EB4;
+  --blue: #24ACD4;
+  --pink: #F2AFFD;
+  --secondary-purple: #EED5FF;
+  --sig-gradient: linear-gradient(90deg, rgba(121, 30, 180, 1) 0%, rgba(202, 5, 77, 1) 100%);
+  --testingcloudflarecssupdate: "please ignore this";
+}
+
+
+body {
+  background: var(--black);
+  color: var(--white);
+  font-family: "Cascadia Code", "Courier New", monospace;
+  padding-top: 20px;
+  font-size: 16px;
+}
+
+h1 {
+  color: var(--pink);
+  font-family: monospace;
+  font-size: 32px;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding-left: 5%;
+  padding-right: 15%;
+}
+
+a {
+  text-decoration: none;
+  font-style: italic;
+  color: var(--blue);
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+img {
+  max-width: 50vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+mark {
+  background: var(--sig-gradient);
+  padding: 2px;
+  color: var(--white);
+}
+
+ul {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#foot>div {
+  padding: 10px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  width: 100vh;
+}
+
+td {
+  text-align: center;
+}
+
+::selection {
+  background-color: var(--secondary-purple);
+  color: var(--black);
+  padding: 1px;
+}
+
+::-moz-selection {
+  background-color: var(--secondary-purple);
+  color: var(--black);
+  padding: 1px;
+}
+
+.contentWrap {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.textWrap {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.purple {
+  color: var(--purple);
+}
+
+.blue {
+  color: var(--blue);
+}
+
+.pink {
+  color: var(--pink);
+}
+
+.black {
+  color: var(--black);
+}
+
+.white {
+  color: var(--white);
+}
+
+.whitebackground {
+  background-color: var(--white);
+}
+
+.blackbackground {
+  background-color: var(--black);
+}
+
+.darkbackground {
+  background-color: var(--dark);
+}
+
+.pinkbackground {
+  background-color: var(--pink);
+}
+
+.bluebackground {
+  background-color: var(--blue);
+}
+
+.purplebackground {
+  background-color: var(--purple);
+}
+
+.gradbackground {
+  background: var(--sig-gradient);
+  background-color: var(--sig-gradient);
+}
+
+.secpurpbackground {
+  background-color: var(--secondary-purple);
+}
+
+.monospaced {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.coverLink {
+  text-decoration: none;
+}
+
+.title {
+  transform: translateX(-30px);
+}
+
+.hash {
+  color: var(--grey);
+  padding-right: 10px;
+}
+
+.coverLink:hover {
+  background: var(--sig-gradient);
+  background-color: var(--sig-gradient);
+  color: var(--white);
+  text-decoration-line: none;
+  padding: 1px;
+}
+
+.spacedLink {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.square {
+  width: 200px;
+  aspect-ratio: 1/1;
+  margin: 10px;
+  padding: 10px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  vertical-align: bottom;
+}
+
+.squarecontainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.spacetosides {
+  display: flex;
+}
+
+.profileImage {
+  max-width: 500px;
+  width: 90%;
+}
+
+.button {
+  display: block;
+  margin: 0px;
+  padding: 5px 5px;
+  height: 31px;
+  max-width: 160px;}
+
+.buttonContainer {
+  display: flex;
+  flex-direcion: row;
+  flex-wrap: wrap;
+}
+
+#nav {
+  padding: 10px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: right;
+  align-items: right;
+  flex-wrap: wrap
+}
+
+#foot {
+  padding-top: 30px;
+  color: var(--white);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 780px) {
+  .contentWrap {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  ul {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  p {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  .title {
+    transform: translateX(-10px);
+  }
+}

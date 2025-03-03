@@ -1,0 +1,6 @@
+.obsidian/
+__*
+.helix/
+/archivemd/
+.todo.md
+__pycache__/
