@@ -17,10 +17,8 @@ i don't know how it interacts with different projects or collaborators, and have
 
 i have plans to implement:
 
-- editing a task (including editing its description)
 - better error handling
-- maybe if i can work out how non-blocking api requests so it doesn't feel as slow
-- use of incremental sync features (right now every API call for get tasks does a full sync)
+- maybe if i can work out non-blocking api requests so it doesn't feel as slow
 
 you can find the [client here on my github](https://github.com/blltrx/todoist-rs), and install using 'cargo install --git'.
 

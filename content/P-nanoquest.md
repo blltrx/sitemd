@@ -187,4 +187,4 @@ here is a bunch of links to some important files and document.
 
 and that's NanoQuEST! its one of my favorite things i’ve been able to do so far. doing actual lab work that i have to design and manage myself for my own hypotheses is really fun, and i also got to do it with really nice people, which is also very cool.
 
-if you have any questions, i would love to answer them! the most reliable way to contact me is by emailing [hello@roseis.gay](mailto:hello@roseis.gay). it’s not an inbox, just a MX forwarding record, so i’ll be replying from a different email.
+if you have any questions, i would love to answer them! the most reliable way to contact me is by emailing [hello@roseis.gay](mailto:hello@roseis.gay).
