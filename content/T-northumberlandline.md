@@ -7,7 +7,6 @@ path: train/northumberlandline.html
 on December 15th 2024, the date of the National Rail timetable change, i visited newcastle to go ride the newly restored and reopened Northumberland Line. 
 
 ![Ashington station](/assets/train-ASL2.webp)
-(i don't know why it's sideways, webp conversion things i guess i'll try fix it at some point no guarantees)
 
 at this time, only two stations on the line have reached completion, Seaton Delaval (SEJ) and Ashington (ASL), with the rest planning to open 2025. the line operates from Newcastle, via Manors to the new stations, and is run with BR class 156s and BR class 158s. the service is half hourly, except sundays which is hourly. the intention is to run two car services. on the sunday i went all services i saw were four car. looking at Realtime Trains, this seems to have been the case the whole day, but since then only two car services have run. this makes some sense considering the increased ridership for opening day.
 
@@ -19,4 +18,6 @@ the stations are very minimal, mostly what you would expect for a small branch l
 -- 17/12/24
 
 ![Ashington station](/assets/train-ASL1.webp)
+
+
 ![Ashington station](/assets/train-ASL5.webp)
