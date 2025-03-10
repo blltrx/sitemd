@@ -20,7 +20,7 @@ i have an rss feed now! you can find it at [/feed.xml](/feed.xml). i don't do mu
 ## contact and socials
 
 - email (preferred contact method): [hello@roseis.gay](mailto:hello@roseis.gay)
-  - [i have a pgp key if you're into that kind of thing](/attach/publickey.asc)
+  - [i have a pgp key if you're into that kind of thing](/assets/publickey.txt)
 - tumblr: [blltrxrose](https://www.tumblr.com/blltrxrose) (literally junk)
 - insta: [blltrxrose](https://www.instagram.com/blltrxrose) (lots of train pictures)
 - twitter: [blltrxrose](https://twitter.com/blltrxrose) (i think i'm much funnier than i am)
