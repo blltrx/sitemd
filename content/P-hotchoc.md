@@ -21,6 +21,8 @@ malted hot chocolate: perfect texture, a bit melty, a bit too cocoa-y for me, bu
 
 peppermint hot chocolate: surprisingly really good, i dont like anything remotely minty, but this is sutble and interesting. worst than usual because mint, but soo much better than expected. would happily drink a little bit because i find it interesting, but idk if i would want a whole cup. (B)
 
+oat milk hot chocolate ('25-03-05): i like the oat milk and the thickness/texture of the hot chocolate, but the taste of the stage hot chocolate (for me) is not complimented by the oat milk. the issue here is the specific combination tho, not the oat milk. (C+)
+
 ## Spoons
 watery, not very milky, awful texture, sweet, little cocoa /neg. (F+)
 
@@ -61,7 +63,12 @@ kind of watery compared to stage but otherwise good texture. sweet, chocolatey, 
 not nearly thick enough to compliment the chocolatey taste, but good taste. tastes properly like chocolate. demoted from b to b- on '25-03-01 (B-)
 
 ## 200°
-very similar to mogs, but substantially less flavourful, that being said much better texture and thats more important. (B+)
+very similar to mogs, but substantially less flavourful, that being said much better texture and thats more important. demoted from B+ to B- on '25-03-05. (B-)
+
+
+## Canterbury Tails (Canterbury)
+fancy hot chocolate: unfortunately a bit bland and watery, idk if its non dairy but it tastes like it /pos but also tates creamy just without the texture to back it up. (C+)
+
 
 ## Wapentake (Leeds) ('25-2)
 sweet, chocolatly, not thin, almost perfect. as with all hot chocolates could be thicker (A+)
@@ -69,8 +76,10 @@ sweet, chocolatly, not thin, almost perfect. as with all hot chocolates could be
 ## Kulture Coffee (Leeds) ('25-3)
 pretty plain and solid, in taste and texture (B+)
 
+## 92° ('25-3)
+almost the right texture, sweet enough, the right milkyness, but really disappointingly bland (C-) 
 
-## current ranking
+# current ranking
 
 tier | hot chocolates 
 -----|-----------------
@@ -80,16 +89,18 @@ S-   | C (Galaxy)
 A+   | C (Cadbury), Wapentake
 A    | Stage (malt), Winter Tent (caramel) 
 A-   | Stage, Mog's  
-B+   | H, 200°, Kulture 
+B+   | H, Kulture 
 B    | Spring Espresso, Stage (peppermint) 
-B-   | Flamingo
-C+   |   
+B-   | Flamingo, 200°
+C+   | Canterbury Tails, Stage (oat)  
 C    | Nero, Nero (luxury), Costa (black forest) 
-C-   | Costa  
+C-   | Costa, 92° 
 D+   |   
 D    | Cooplands 
 D-   | GFAL  
 F+   | Spoons, Chocomel  
 F    |  
 F-   |   
+
+
 
