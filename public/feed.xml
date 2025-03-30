@@ -9,12 +9,6 @@
     <description>rss feed for bellatrix.dev and roseis.gay</description>
     
     <item>
-        <title> i have an rss feed now? </title>
-        <description> i have an rss feed now, i'll probably do something with it at some point </description>
-        <link> /meta </link>
-    </item>
-    
-    <item>
         <title> Cardiff platform zero complete! </title>
         <description> finally, i've visited the platform zero at Cardiff, bringing my total to 8/9 UK platforms and 8/10 european ones. </description>
         <link> /projects/plat0 </link>
@@ -36,6 +30,18 @@
         <title> Class 701, hot chocolate, and more </title>
         <description> i've now seperated some train content (only the not project style things) into a new section, /train! speaking of which, i finally managed to get a BR Class 701! also i've rated (and downgraded) more hot chocolates on my tierlist (/projects/hot-choc) and generally updated some small QoL stuff on the site :) </description>
         <link> /train/BR701 </link>
+    </item>
+    
+    <item>
+        <title> i have an rss feed now? </title>
+        <description> i have an rss feed now, i'll probably do something with it at some point </description>
+        <link> /meta </link>
+    </item>
+    
+    <item>
+        <title> Cardiff platform zero complete! </title>
+        <description> finally, i've visited the platform zero at Cardiff, bringing my total to 8/9 UK platforms and 8/10 european ones. </description>
+        <link> /projects/plat0 </link>
     </item>
     
 </channel>

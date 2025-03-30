@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import tomllib
 INPUT_ROOT = "content/"
-PATH = "/home/blltrx/devel/sitemd/public/feed.xml"
+PATH = "/home/blltrx/Devel/sitemd/public/feed.xml"
 PAGE_HEADING = """<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 
