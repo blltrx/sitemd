@@ -30,7 +30,7 @@ def xmlify(title: str, link: str, description: str) -> str:
 
 
 def main():
-    with open(INPUT_ROOT + "rss.toml", "rb") as f:
+    with open(INPUT_ROOT + "feed.toml", "rb") as f:
         toml = tomllib.load(f)
 
     page_body = ""

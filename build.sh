@@ -1,12 +1,12 @@
-#! /usr/bin/bash
+#! /usr/bin/env bash
 
 filelist=$(ls -l content/*.md | awk '{print $9'})
 for file in $filelist
 do
-    ./htmldown.py $file
+    python htmldown.py $file
 done
 
-./rss_build.py
+python rss_build.py
 
 git add .
 git commit -m "new build commit"
