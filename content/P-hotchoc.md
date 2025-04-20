@@ -79,7 +79,13 @@ pretty plain and solid, in taste and texture (B+)
 ## 92° ('25-3)
 almost the right texture, sweet enough, the right milkyness, but really disappointingly bland (C-) 
 
-# current ranking
+## Revive Food + Mood (Whitstable) ('25-4)
+brilliant hot chocolate poweder, but not made very well. texture definitely not thick enough and the drink was not strong enough. (B+)
+
+## Hot Numbers (Cambridge) ('25-4)
+like stage, but even more to cocoa-y and bitter for me (B)
+
+## current ranking
 
 tier | hot chocolates 
 -----|-----------------
@@ -89,8 +95,8 @@ S-   | C (Galaxy)
 A+   | C (Cadbury), Wapentake
 A    | Stage (malt), Winter Tent (caramel) 
 A-   | Stage, Mog's  
-B+   | H, Kulture 
-B    | Spring Espresso, Stage (peppermint) 
+B+   | H, Kulture, Revive 
+B    | Spring Espresso, Stage (peppermint), Hot #'s
 B-   | Flamingo, 200°
 C+   | Canterbury Tails, Stage (oat)  
 C    | Nero, Nero (luxury), Costa (black forest) 
@@ -101,6 +107,3 @@ D-   | GFAL
 F+   | Spoons, Chocomel  
 F    |  
 F-   |   
-
-
-
