@@ -4,7 +4,7 @@ path: projects/hot-choc.html
 
 # hot chocolate tierlist
 
-i've been ranking hot chocolate from various coffee shops for a little bit now, here are my reviews and current ranking. last updated 2025-03-01.
+i've been ranking hot chocolate from various coffee shops for a little bit now, here are my reviews and current ranking. last updated 2025-04-24.
 
 ## Caffè Nero
 hot chocolate classic: a bit bland and a bit sweet honestly fine. i've using this to be the reference point. (C)
