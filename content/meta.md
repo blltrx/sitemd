@@ -22,8 +22,6 @@ i have an rss feed now! you can find it at [/feed.xml](/feed.xml). i don't do mu
 - email (preferred contact method): [hello@roseis.gay](mailto:hello@roseis.gay)
     - [i have a pgp key if you're into that kind of thing](/assets/publickey.txt)
 - tumblr: [blltrxrose](https://www.tumblr.com/blltrxrose) (where i spend most my time now)
-- insta: [blltrxrose](https://www.instagram.com/blltrxrose) (lots of train pictures)
-- twitter: [blltrxrose](https://twitter.com/blltrxrose) (literal junk)
 - github: [@blltrx](https://github.com/blltrx) (i'm bad at rust)
 
 this website is just a [git repo](https://github.com/blltrx/sitemd) deployed using cloudflare [pages.dev](https://pages.cloudflare.com/), and build from markdown using [a little python script](https://github.com/blltrx/htmldown).
