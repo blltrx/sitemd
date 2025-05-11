@@ -10,7 +10,7 @@ i love trains for a lot of reasons, but one of them is that it is a human-servin
 
 platform zeros usually happen when a new platform is built next to platform one, in the opposite direction to existing platforms. it's often difficult to just renumber all the platforms because it's not just a matter of replacing signage, but also the computer systems that have to deal with signalling, platform allocation, and passenger information. railways are complex systems and changes can have unexpected effects, so simply adding a zero is often more convenient.
 
-i would like to at least visit every platform zero in the UK, as we have the bulk of them. however, i specifically want to one up [Geoff Marshall](https://youtu.be/TTHOyTypNs8) and [Matt Parker](https://youtu.be/SPQRNmXVP8s). rather than needed to simply be on the platform, i need to arrive or depart on a train at that platform (which is going to make HYM very difficult). this will be where i document that! i'm doing them incrementally, but if i have the time and money at some point, i'll do them in as short of a time as i can!
+i would like to at least visit every platform zero in the UK, as we have the bulk of them. however, i specifically want to one up [Geoff Marshall](https://youtu.be/TTHOyTypNs8) and [Matt Parker](https://youtu.be/SPQRNmXVP8s). rather than needing to simply be on the platform, i need to arrive or depart on a train at that platform (which is going to make HYM very difficult). this will be where i document that! i'm doing them incrementally, but if i have the time and money at some point, i'll do them in as short of a time as i can!
 
 ## Rainham (RAI) and Gravesend (GRV)
 
