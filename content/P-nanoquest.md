@@ -163,27 +163,7 @@ we also attended the 2022/3 IRIS London conferences and presented our research a
   
 a lot of time (arguably too much) was dedicated to our b r a n d i n g. we made a logo, a theme colour, and a whole lot of posters and documents.  
 
----
-
-here is a bunch of links to some important files and document.
-
- - [the main project document](https://files.bellatrix.dev/nano/main.pdf)
- - [original logo as a circle](https://files.bellatrix.dev/nano/logo-circle.png)
- - [new 2023 onwards logo as a circle](https://files.bellatrix.dev/nano/logo-new%20circle.png)
- - [original logo as a square](https://files.bellatrix.dev/nano/logo-new.png)
- - [new 2023 onwards logo as a square](https://files.bellatrix.dev/nano/logo-square.png)
- - [very original illustrator file of the logo](https://files.bellatrix.dev/nano/logo.ai)
- - [very original svg export of the logo](https://files.bellatrix.dev/nano/logo.svg)
- - [our 2022 research poster](https://files.bellatrix.dev/nano/poster-2022.pdf) 
- - [our 2023 research poster](https://files.bellatrix.dev/nano/poster-2023.pdf) 
- - [scanning electron microscope image of two aligned fibers](https://files.bellatrix.dev/nano/SEM-aligned-fibers-and-glob.tif)  
- - [scanning electron microscope image of two different aligned fibers](https://files.bellatrix.dev/nano/SEM-aligned-fibers.tif)  
- - [scanning electron microscope image of two crossing fibers](https://files.bellatrix.dev/nano/SEM-crossed-fibers.tif), 
- - [scanning electron microscope image of the smallest fibre i was able to find](https://files.bellatrix.dev/nano/SEM-microfiber.tif) 
- - [purple wordmark as a png](https://files.bellatrix.dev/nano/wordmark-purple.png)
- - [purple wordmark as an svg](https://files.bellatrix.dev/nano/wordmark-purple.svg)
-
----
+for resources and files, email me!
 
 and that's NanoQuEST! its one of my favorite things i’ve been able to do so far. doing actual lab work that i have to design and manage myself for my own hypotheses is really fun, and i also got to do it with really nice people, which is also very cool.
 
