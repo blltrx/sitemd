@@ -10,7 +10,7 @@ PAGE_HEADING = """<?xml version="1.0" encoding="UTF-8"?>
     <link>https://roseis.gay/feed.xml</link>
     <language>en-gb</language>
     <copyright>rose / bellatrix &#x2117;</copyright>
-    <description>rss feed for bellatrix.dev and roseis.gay</description>
+    <description>rss feed for roseis.gay</description>
     """
 
 PAGE_END = """

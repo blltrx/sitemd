@@ -7,8 +7,8 @@ between 2021 and 2023 i lead a research group as part of a school extracurricula
 
 ## background
 
-![example of a nanofibre, with a minimum diameter of 797nm](/assets/SEM-nanofiber.webp) [download](https://files.bellatrix.dev/nano/SEM-nanofiber.webp)  
-![](/assets/setupdiagram.webp) [download](https://files.bellatrix.dev/nano/setupdiagram.png)
+![example of a nanofibre, with a minimum diameter of 797nm](/assets/SEM-nanofiber.webp) [download](https://files.roseis.gay/nano/SEM-nanofiber.webp)  
+![](/assets/setupdiagram.webp) [download](https://files.roseis.gay/nano/setupdiagram.png)
 
 we used two materials to create out nanofibres, alpha-cellulose and polyethylene oxide. We focused on the cellulose fibres as they tend to spin better.
 
@@ -22,9 +22,9 @@ for the polyethylene oxide (PEO) solutions we initially used PEO with a molecula
 
 we can spin the solutions by placing them in a syringe, and applying a high potential between the needle and a conductive collection plate while slowly pushing the solution out of the syringe with a syringe pump. we generally used an acceleration voltage of 5kV, a distance of <5cm, and an extrusion rate of 0.25ml/h to 0.5ml/h.
 
-![a needle full of a cellulose based electrospinning solution](/assets/IMAGE-a-solution.webp) [download](https://files.bellatrix.dev/nano/IMAGE-a-solution.jpg)
+![a needle full of a cellulose based electrospinning solution](/assets/IMAGE-a-solution.webp) [download](https://files.roseis.gay/nano/IMAGE-a-solution.jpg)
 
-our method sheet is [available for download](https://files.bellatrix.dev/nano/main.pdf) via files.bellatrix.dev
+our method sheet is [available for download](https://files.roseis.gay/nano/main.pdf) via files.roseis.gay
 
 ---
 
@@ -34,7 +34,7 @@ we observed in 2021 that the age of our cellulose solutions may affect its abili
 
 we created a range of solutions, and spun them once a week over a period of 6 weeks.
 
-![results table showing that across four solutions, the most success is found between 2-3 weeks](/assets/CHART-initial-ageing.webp) [download](https://files.bellatrix.dev/nano/CHART-initial-ageing.png)
+![results table showing that across four solutions, the most success is found between 2-3 weeks](/assets/CHART-initial-ageing.webp) [download](https://files.roseis.gay/nano/CHART-initial-ageing.png)
 
 our results matched our initial observations, and suggested that the phosphate solutions are optimal at around 2 to 3 weeks. we didn’t have enough data to draw conclusions of the acetate solutions.
 
@@ -63,7 +63,7 @@ the solutions were stored in the NanoQuEST cupboard in the corner of the lab, an
 
 ### results
 
-![graph of cumulative mass difference over time showing an unreliable trend upwards](/assets/CHART-M1.svg) [download](https://files.bellatrix.dev/nano/CHART-M1.svg)
+![graph of cumulative mass difference over time showing an unreliable trend upwards](/assets/CHART-M1.svg) [download](https://files.roseis.gay/nano/CHART-M1.svg)
 
 the graph above shows the cumulative mass gain/loss over time, that is, the sum of mass differences between spins, separated into distinct series for each solution. The #00D etc. refers to an internal stock ID number.
 
@@ -119,7 +119,7 @@ the solutions used are as follows:
 
 the humidity of the open air (wet) solutions were recorded by a data logger half hourly.
 
-![graph of cumulative mass difference over time showing an unreliable trend upwards](/assets/CHART-M2.svg) [download](https://files.bellatrix.dev/nano/CHART-M2.svg)
+![graph of cumulative mass difference over time showing an unreliable trend upwards](/assets/CHART-M2.svg) [download](https://files.roseis.gay/nano/CHART-M2.svg)
 
 our results show a significant mass gain in all cellulose solutions stored in open air (wet) conditions. the solutions stored in a low humidity environment, i.e. in the desiccator, gained significantly less mass by at least a factor of a half. the solution that was only DMSO gained the most mass. the average conditions of the wet solutions were 54% humidity at 15.9 C. the solutions were between 08/02/23 to 21/02/23 inclusive.  
 
@@ -130,7 +130,7 @@ our mass uncertainty per measurement was +/- 0.01g. our mass gains are significa
 ## storage experimentation
 
 based on the research done on ageing, finding a storage method for our solutions that would reduce water vapour uptake as much as reasonably possible became a priority. we placed 25 ml of pure DMSO in an open air environment, in a desiccator, and in a freezer and recorded the mass incrementally.  
-![graph of cumulative mass difference over time showing an unreliable trend upwards](/assets/CHART-ageing-storage.svg) [download](https://files.bellatrix.dev/nano/CHART-ageing-storage.svg)
+![graph of cumulative mass difference over time showing an unreliable trend upwards](/assets/CHART-ageing-storage.svg) [download](https://files.roseis.gay/nano/CHART-ageing-storage.svg)
 
 from the graph above it's clear that while the desiccator has the minimal amount of mass gain, storing solutions in a freezer has a similar rate of mass gain and is 1/10th of the rate of gain than an exposed lab environment such as a cupboard. this makes a freezer a very easy and effective storage method going forwards.
 
@@ -141,7 +141,7 @@ from the graph above it's clear that while the desiccator has the minimal amount
 we tried to build a rotating drum to act as a collector plate. our prototype, a aluminium can with a motor attached, did work but had too much friction to spin consistently.  
 we are currently building an improved one
 
-![prototype rotating drum, made from an aluminium drinks can](/assets/IMAGE-drum-and-arduino.webp) [download](https://files.bellatrix.dev/nano/IMAGE-drum-and-arduino.jpg)  
+![prototype rotating drum, made from an aluminium drinks can](/assets/IMAGE-drum-and-arduino.webp) [download](https://files.roseis.gay/nano/IMAGE-drum-and-arduino.jpg)  
 the rotating drum allows us to align our fibres on collection, but also stretch them slightly to further reduce to diameter.
 
 ---
@@ -158,7 +158,7 @@ this is in progress currently, we are currently perameter testing 4M PEO
 we have attended the 2022/3 science conferences at Tonbridge School and presented our research on electrospinning nanofibres as a research poster  
 we also attended the 2022/3 IRIS London conferences and presented our research as both a poster, and a talk to 400 people.  
 
-![research poster for the 2022 conferences. Contains a summary of the infomating in the method document](/assets/poster-2022.webp) [download](https://files.bellatrix.dev/nano/poster-2022.pdf)
+![research poster for the 2022 conferences. Contains a summary of the infomating in the method document](/assets/poster-2022.webp) [download](https://files.roseis.gay/nano/poster-2022.pdf)
 
   
 a lot of time (arguably too much) was dedicated to our b r a n d i n g. we made a logo, a theme colour, and a whole lot of posters and documents.  
