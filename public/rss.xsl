@@ -22,7 +22,7 @@
   a:active,a:hover{outline-width:0}
 
 
-  body{font-size:14px;line-height:1.5;color:#24292e;background-color:#fff}
+  body{font-size:14px;line-height:1.5;color:#24292e;background-color:#fff;padding-right:5%;padding-left:5%}
 
   a{color:#0366d6;text-decoration:none}
   a:hover{text-decoration:underline}
