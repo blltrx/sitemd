@@ -15,7 +15,7 @@
     font-size:14px;
     line-height:1.5;
     padding:5%;
-    padding-top:2%;
+    padding-top:15px;
     margin:0%;
     min-height:100vh;
   }
@@ -24,7 +24,7 @@
   .purple-box{
     color:#CFCFCF;
     background-color:#791EB4;
-    padding:1%;
+    padding:3%;
     margin-top:0%;
     border-radius: 15px;
     -moz-border-radius: 15px;
