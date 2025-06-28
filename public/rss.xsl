@@ -128,7 +128,7 @@ This file is in BETA. Please test and contribute to the discussion:
                   <xsl:value-of select="title"/>
                 </a>
               </h3>
-              <xsl:value-of select="description"/><br>
+              <xsl:value-of select="description"/><br/>
               <small class="text-gray">
                 published: <xsl:value-of select="pubDate" />
               </small>
