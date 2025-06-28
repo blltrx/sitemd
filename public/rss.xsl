@@ -57,11 +57,8 @@
         <div class="container-md">
           <header>
             <h1><xsl:value-of select="/rss/channel/title"/> feed</h1>
-            <p><xsl:value-of select="/rss/channel/description"/></p>
-            <a target="_blank">
-              <xsl:attribute name="href">
-                <xsl:value-of select="/rss/channel/link"/>
-              </xsl:attribute>
+            <!-- <p><xsl:value-of select="/rss/channel/description"/></p> -->
+            <a href="roseis.gay" target="_blank">
               visit website &#x2192;
             </a>
           </header>
@@ -82,6 +79,7 @@
               </small>
             </div>
           </xsl:for-each>
+        <br/>
         <xsl:value-of select="/rss/channel/copyright"/>
         </div>
       </body>
