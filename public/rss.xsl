@@ -4,15 +4,12 @@
                 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <xsl:output method="html" version="1.0" encoding="UTF-8" indent="yes"/>
   <xsl:template match="/">
-
   <style type="text/css">
-
   html{
     color:#CFCFCF;
     background-color:#121213;
     font-family: "Cascadia Code", "Courier New", monospace;
   }
-
   body{
     background-color:#121213;
     font-size:14px;
@@ -21,19 +18,16 @@
     margin:0%;
     min-height:100vh;
   }
-
   a{color:#24ACD4;text-decoration:none;background-color:transparent}
   a:hover{text-decoration:underline}
-
   .purple-box{
     color:#CFCFCF;
-    background-color:#121213;
+    background-color:#791EB4;
     padding:2%;
     margin-top:0%;
-    -moz-border-radius: 15px;
     border-radius: 15px;
+    -moz-border-radius: 15px;
   }
-
   .text-gray{color:#687079!important}
   </style>
     <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
@@ -54,8 +48,7 @@
         <div>
           <header>
             <h1><xsl:value-of select="/rss/channel/title"/> feed</h1>
-            <!-- <p><xsl:value-of select="/rss/channel/description"/></p> -->
-            <a href="/" target="_blank">
+            <a href="/">
               visit website &#x2192;
             </a>
           </header>
