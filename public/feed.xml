@@ -10,10 +10,10 @@
     <description>rss feed for roseis.gay</description>
     
     <item>
-        <title>Cardiff platform zero complete!</title>
-        <description>finally, i've visited the platform zero at Cardiff, bringing my total to 8/9 UK platforms and 8/10 european ones.</description>
-        <link>/projects/plat0</link>
-        <pubDate>18 Jul 2024 00:00:00 GMT</pubDate>
+        <title>Class 701, hot chocolate, and more</title>
+        <description>i've now seperated some train content (only the not project style things) into a new section, /train! speaking of which, i finally managed to get a BR Class 701! also i've rated (and downgraded) more hot chocolates on my tierlist (/projects/hot-choc) and generally updated some small QoL stuff on the site :)</description>
+        <link>/train/BR701</link>
+        <pubDate>14 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     
     <item>
@@ -24,17 +24,17 @@
     </item>
     
     <item>
+        <title>Cardiff platform zero complete!</title>
+        <description>finally, i've visited the platform zero at Cardiff, bringing my total to 8/9 UK platforms and 8/10 european ones.</description>
+        <link>/projects/plat0</link>
+        <pubDate>18 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
         <title>hot chocolate tierlist now has a page</title>
         <description>i've been ranking hot chocolates for a while and am making a tierlist of them. now it's on my website</description>
         <link>/projects/hot-choc</link>
         <pubDate>18 Jun 2024 00:00:00 GMT</pubDate>
-    </item>
-    
-    <item>
-        <title>Class 701, hot chocolate, and more</title>
-        <description>i've now seperated some train content (only the not project style things) into a new section, /train! speaking of which, i finally managed to get a BR Class 701! also i've rated (and downgraded) more hot chocolates on my tierlist (/projects/hot-choc) and generally updated some small QoL stuff on the site :)</description>
-        <link>/train/BR701</link>
-        <pubDate>14 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     
     <item>
