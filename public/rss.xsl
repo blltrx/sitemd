@@ -15,9 +15,6 @@
 
   audio,canvas,progress,video{display:inline-block}
 
-  audio:not([controls]){display:none;height:0}
-  progress{vertical-align:baseline}[hidden],template{display:none!important}
-
   a{background-color:transparent}
   a:active,a:hover{outline-width:0}
 
@@ -26,7 +23,7 @@
   a{color:#24ACD4;text-decoration:none}
   a:hover{text-decoration:underline}
 
-  .purple-box{color:#CFCFCF;background-color:#121213;color:#CFCFCF;background-color:#791EB4!important;padding:2%}
+  .purple-box{color:#CFCFCF;background-color:#121213;color:#CFCFCF;background-color:#791EB4!important;padding:2%;margin-top:0%}
 
   .text-gray{color:#687079!important}
   </style>
@@ -49,7 +46,7 @@
           <header>
             <h1><xsl:value-of select="/rss/channel/title"/> feed</h1>
             <!-- <p><xsl:value-of select="/rss/channel/description"/></p> -->
-            <a href="roseis.gay" target="_blank">
+            <a href="/" target="_blank">
               visit website &#x2192;
             </a>
           </header>
