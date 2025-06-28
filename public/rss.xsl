@@ -23,7 +23,9 @@
   a{color:#24ACD4;text-decoration:none}
   a:hover{text-decoration:underline}
 
-  .purple-box{color:#CFCFCF;background-color:#121213;color:#CFCFCF;background-color:#791EB4!important;padding:2%;margin-top:0%}
+  .purple-box{color:#CFCFCF;background-color:#121213;color:#CFCFCF;background-color:#791EB4!important;padding:2%;margin-top:0%
+  -moz-border-radius: 15px;
+  border-radius: 15px}
 
   .text-gray{color:#687079!important}
   </style>
