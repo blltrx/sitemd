@@ -5,7 +5,7 @@
   <xsl:output method="html" version="1.0" encoding="UTF-8" indent="yes"/>
   <xsl:template match="/">
 
-  <style type="text/css">/*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
+  <style type="text/css">
 
   html{font-family: "Cascadia Code", "Courier New", monospace}
 
@@ -21,18 +21,12 @@
   a{background-color:transparent}
   a:active,a:hover{outline-width:0}
 
-
   body{font-size:14px;line-height:1.5;color:#24292e;background-color:#fff;padding-right:5%;padding-left:5%}
 
   a{color:#0366d6;text-decoration:none}
   a:hover{text-decoration:underline}
-  .bg-white{background-color:#fff!important}
 
-  .bg-blue{background-color:#0366d6!important}.bg-blue-light{background-color:#f1f8ff!important}.bg-gray-dark{background-color:#24292e!important}.bg-gray{background-color:#f6f8fa!important}.bg-gray-light{background-color:#fafbfc!important}.bg-green{background-color:#28a745!important}.bg-green-light{background-color:#dcffe4!important}.bg-red{background-color:#d73a49!important}.bg-red-light{background-color:#ffdce0!important}
-
-  .bg-yellow{background-color:#ffd33d!important}.bg-yellow-light{background-color:#fff5b1!important}
-  .bg-purple{background-color:#6f42c1!important}
-  .bg-purple-light{background-color:#f5f0ff!important}
+  .purple-box{background-color:#6f42c1!important;padding:2%}
 
   .text-gray{color:#586069!important}
 
@@ -45,16 +39,16 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
       </head>
-      <body class="bg-white">
-        <nav class="container-md">
-          <p class="bg-purple-light">
+      <body>
+        <nav>
+          <p class="purple-box">
             this is an rss feed. subscribe by copying the url from the address bar into your newsreader.
           </p>
           <p class="text-gray">
             visit <a href="https://aboutfeeds.com">about feeds</a> to get started with newsreaders and subscribing. it’s free.
           </p>
         </nav>
-        <div class="container-md">
+        <div>
           <header>
             <h1><xsl:value-of select="/rss/channel/title"/> feed</h1>
             <!-- <p><xsl:value-of select="/rss/channel/description"/></p> -->
