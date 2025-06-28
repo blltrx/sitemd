@@ -3,6 +3,7 @@ import tomllib
 INPUT_ROOT = "content/"
 PATH = "/home/blltrx/Devel/sitemd/public/feed.xml"
 PAGE_HEADING = """<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
 <rss version="2.0">
 
 <channel>
