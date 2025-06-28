@@ -47,8 +47,8 @@
       </head>
       <body class="bg-white">
         <nav class="container-md">
-          <p class="bg-yellow-light">
-            this is an rss feed.subscribe by copying the url from the address bar into your newsreader.
+          <p class="bg-purple-light">
+            this is an rss feed. subscribe by copying the url from the address bar into your newsreader.
           </p>
           <p class="text-gray">
             visit <a href="https://aboutfeeds.com">about feeds</a> to get started with newsreaders and subscribing. it’s free.
