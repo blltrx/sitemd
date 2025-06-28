@@ -10,9 +10,6 @@ PAGE_HEADING = """<?xml version="1.0" encoding="UTF-8"?>
     <title>rose / bellatrix</title>
     <link>https://roseis.gay/feed.xml</link>
     <language>en-gb</language>
-    <managingEditor>hello@roseis.gay (rose)</managingEditor>
-    <webMaster>hello@roseis.gay (rose)</managingEditor>
-    <generator>rss_build.py in https://github.com/blltrx/sitemd</generator>
     <copyright>rose / bellatrix &#x2117;</copyright>
     <description>rss feed for roseis.gay</description>
     """
@@ -53,3 +50,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# <managingEditor>hello@roseis.gay (rose)</managingEditor>
+# <webMaster>hello@roseis.gay (rose)</managingEditor>
+# <generator>rss_build.py in https://github.com/blltrx/sitemd</generator>
