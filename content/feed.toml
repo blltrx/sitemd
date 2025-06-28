@@ -1,25 +1,33 @@
+# RSS feed source
+# valid pubDate is 02 Oct 2025 08:00:00 GMT
+
 [[item]]
 title = "Cardiff platform zero complete!"
 link = "/projects/plat0"
 description = "finally, i've visited the platform zero at Cardiff, bringing my total to 8/9 UK platforms and 8/10 european ones."
+pubDate = "18 July 2024 00:00:00 GMT"
 
 [[item]]
 title = "Northumberland Line visit!"
 link = "/train/northumberlandline"
 description = "i went to visit the newly reopened Northumberland line from Newcastle to Ashington when it opened on sunday!"
+pubDate = "17 Dec 2024 00:00:00 GMT"
 
 [[item]]
 title = "hot chocolate tierlist now has a page"
 link = "/projects/hot-choc"
 description = "i've been ranking hot chocolates for a while and am making a tierlist of them. now it's on my website"
+pubDate = ""
 
 
 [[item]]
 title = "Class 701, hot chocolate, and more"
 link = "/train/BR701"
 description = "i've now seperated some train content (only the not project style things) into a new section, /train! speaking of which, i finally managed to get a BR Class 701! also i've rated (and downgraded) more hot chocolates on my tierlist (/projects/hot-choc) and generally updated some small QoL stuff on the site :)"
+pubDate = "14 Feb 2025 00:00:00 GMT"
 
 [[item]]
 title = "i have an rss feed now?"
 link = "/meta"
 description = "i have an rss feed now, i'll probably do something with it at some point"
+pubDate = ""

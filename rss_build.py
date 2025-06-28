@@ -10,6 +10,9 @@ PAGE_HEADING = """<?xml version="1.0" encoding="UTF-8"?>
     <title>rose / bellatrix</title>
     <link>https://roseis.gay/feed.xml</link>
     <language>en-gb</language>
+    <managingEditor>hello@roseis.gay (rose)</managingEditor>
+    <webMaster>hello@roseis.gay (rose)</managingEditor>
+    <generator>rss_build.py in https://github.com/blltrx/sitemd</generator>
     <copyright>rose / bellatrix &#x2117;</copyright>
     <description>rss feed for roseis.gay</description>
     """
@@ -20,12 +23,13 @@ PAGE_END = """
 """
 
 
-def xmlify(title: str, link: str, description: str) -> str:
+def xmlify(title: str, link: str, description: str, date:str) -> str:
     return f"""
     <item>
-        <title> {title} </title>
-        <description> {description} </description>
-        <link> {link} </link>
+        <title>{title}</title>
+        <description>{description}</description>
+        <link>{link}</link>
+        <pubDate>{date}</pubDate>
     </item>
     """
 
@@ -39,7 +43,8 @@ def main():
         title = item.get('title')
         link = item.get('link')
         description = item.get('description')
-        page_body += xmlify(title, link, description)
+        date = item.get('pubDate')
+        page_body += xmlify(title, link, description, date)
 
     with open(PATH, "w") as f:
         f.write(PAGE_HEADING + page_body + PAGE_END)
