@@ -21,17 +21,14 @@
   a{background-color:transparent}
   a:active,a:hover{outline-width:0}
 
-  body{font-size:14px;line-height:1.5;color:#24292e;background-color:#fff;padding-right:5%;padding-left:5%}
+  body{font-size:14px;line-height:1.5;color:#CFCFCF;background-color:#121213;padding-right:5%;padding-left:5%}
 
-  a{color:#0366d6;text-decoration:none}
+  a{color:#24ACD4;text-decoration:none}
   a:hover{text-decoration:underline}
 
-  .purple-box{background-color:#6f42c1!important;padding:2%}
+  .purple-box{color:#CFCFCF;background-color:#791EB4!important;padding:2%}
 
   .text-gray{color:#586069!important}
-
-  .markdown-body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";font-size:16px;line-height:1.5;word-wrap:break-word}
-
   </style>
     <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
       <head>
