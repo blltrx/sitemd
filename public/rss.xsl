@@ -7,7 +7,7 @@
 
   <style type="text/css">
 
-  html{font-family: "Cascadia Code", "Courier New", monospace}
+  html{color:#CFCFCF;background-color:#121213;font-family: "Cascadia Code", "Courier New", monospace}
 
   article,aside,details,figcaption,figure,footer,header,main,menu,nav,section{display:block}
 
@@ -21,14 +21,14 @@
   a{background-color:transparent}
   a:active,a:hover{outline-width:0}
 
-  body{font-size:14px;line-height:1.5;color:#CFCFCF;background-color:#121213;padding-right:5%;padding-left:5%}
+  body{font-size:14px;line-height:1.5;padding-right:5%;padding-left:5%}
 
   a{color:#24ACD4;text-decoration:none}
   a:hover{text-decoration:underline}
 
   .purple-box{color:#CFCFCF;background-color:#791EB4!important;padding:2%}
 
-  .text-gray{color:#586069!important}
+  .text-gray{color:#687079!important}
   </style>
     <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
       <head>
