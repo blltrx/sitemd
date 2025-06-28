@@ -13,20 +13,16 @@
     font-family: "Cascadia Code", "Courier New", monospace;
   }
 
-  summary{display:list-item}
-
-  a{background-color:transparent}
-  a:active,a:hover{outline-width:0}
-
   body{
     background-color:#121213;
     font-size:14px;
     line-height:1.5;
     padding:5%;
     margin:0%;
+    min-height:100vh;
   }
 
-  a{color:#24ACD4;text-decoration:none}
+  a{color:#24ACD4;text-decoration:none;background-color:transparent}
   a:hover{text-decoration:underline}
 
   .purple-box{
