@@ -18,7 +18,7 @@
   a{background-color:transparent}
   a:active,a:hover{outline-width:0}
 
-  body{font-size:14px;line-height:1.5;padding-right:5%;padding-left:5%}
+  body{background-color:#121213;font-size:14px;line-height:1.5;padding-right:5%;padding-left:5%}
 
   a{color:#24ACD4;text-decoration:none}
   a:hover{text-decoration:underline}
