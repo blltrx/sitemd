@@ -15,7 +15,6 @@ body {
   background: var(--black);
   color: var(--white);
   font-family: "Cascadia Code", "Courier New", monospace;
-  padding-top: 20px;
   font-size: 16px;
 }
 
@@ -228,6 +227,7 @@ td {
 #nav {
   padding: 10px;
   margin-bottom: 20px;
+  margin-top: 20px;
   display: flex;
   justify-content: right;
   align-items: right;
@@ -235,7 +235,7 @@ td {
 }
 
 #foot {
-  padding-top: 30px;
+  padding: 10px;
   color: var(--white);
   display: flex;
   flex-wrap: wrap;
