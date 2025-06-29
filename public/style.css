@@ -244,8 +244,8 @@ td {
 
 @media screen and (max-width: 780px) {
   .contentWrap {
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
   }
 
   h2,
@@ -253,18 +253,18 @@ td {
   h4,
   h5,
   h6 {
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
   }
 
   ul {
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
   }
 
   p {
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
   }
 
   .title {
