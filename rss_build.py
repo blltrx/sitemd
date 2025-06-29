@@ -51,6 +51,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-# <managingEditor>hello@roseis.gay (rose)</managingEditor>
-# <webMaster>hello@roseis.gay (rose)</managingEditor>
-# <generator>rss_build.py in https://github.com/blltrx/sitemd</generator>
