@@ -38,4 +38,4 @@ light purple - #EED5FF
 
 ## font
 
-idk the difference between a typeface and font but i don't care that much. i use Casdacia Code for all my things, and if your device has it that's what you'll see here.
+idk the difference between a typeface and font but i don't care that much. i use Cascadia Code for all my things, and if your device has it that's what you'll see here.
