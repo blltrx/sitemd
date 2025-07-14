@@ -1,5 +1,5 @@
 ---
-path: /projects/todoist-rs.html
+path: projects/todoist-rs.html
 ---
 # todoist-rs 🦀
 

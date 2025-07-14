@@ -1,5 +1,5 @@
 ---
-path: /projects/plat0-scraper.html
+path: projects/plat0-scraper.html
 ---
 
 # historical platform allocation scraper 🦀
