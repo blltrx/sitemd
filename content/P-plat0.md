@@ -126,7 +126,7 @@ there was some talk that [Preston's mail platform might be converted into a plat
 
 while i aim to complete every station 'properly', this might not be possible with Edinburgh Haymarket (HYM) as there are no regular passenger services from this platform. from my understanding, it is primarily used as a terminating platform during disruption in Edinburgh (as well as non-passenger movements). this makes it quite difficult to achieve so i may not be able to visit this one 'properly'.
 
-in Europe there is also just one more station, Aarau in Switzerland. you can find [the timetable here](https://www.sbb.ch/content/dam/internet/sbb/downloads/multi/reiseinformationen/bahnverkehrsinformation/pdf-fahrplaene/abfahrtsplakate/2025/abfahrtstabellen/AA_241215_ab_2113.pdf.sbbdownload.pdf) via SBB CFF FFS. I intend to do this at some point.
+in Europe there is also just one more station, Aarau in Switzerland. you can find [the timetable here](https://www.sbb.ch/content/dam/internet/sbb/downloads/multi/reiseinformationen/bahnverkehrsinformation/pdf-fahrplaene/abfahrtsplakate/2025/abfahrtstabellen/AA_241215_ab_2113.pdf.sbbdownload.pdf) via SBB CFF FFS. i intend to do this at some point.
 
 there are also a couple more in the rest of the world, Lidcombe in Australia as well as Ayase, Haruda, Hasioka, and Kyōto in Japan. travelling outside of Europe is expensive and involves airport security and visas so i don't have plans to see any of these, but i would like to one day.
 
