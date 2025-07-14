@@ -4,6 +4,7 @@ path: projects/wymetro.html
 
 # speedrunning the national rail west yorkshire metro area
 
+last updated: 2025-07-14
 <!--toc:start-->
 - [speedrunning the national rail west yorkshire metro area](#speedrunning-the-national-rail-west-yorkshire-metro-area)
   - [attempt 1](#attempt-1)
@@ -36,8 +37,6 @@ i abandoned the run at 14:58, leaving me at 25 stations in 5h25 (36% complete), 
 - the non-completed sections of the route have less changes involved than the parts i completed, which would result in a higher average stations per hour
 
 ![image of Pontefract Baghill station](/assets/PFR.webp)
-
-overall i believe if reattempted on a Saturday i should be able to get my stations per hour up to 7 or 8, allowing me to complete the run in 8-9 hours. i'll reattempt this on a Saturday soon.
 
 below is my station log. every first visit of a station is listed, as well as the start and end station for any service i rode (e.g. 2V21 lists Ilkley and Kirkstall Forge as i boarded at Ilkley and alighted at Kirkstall Forge, and all intermediate stations had already been visited).
 
@@ -164,3 +163,7 @@ In Station         |Start       |Micklefield            |12:10:00
  Walk & Bus (50A)  |Start       |Horsforth              |19:46:52 
                    |            |Headingly              |19:49:00 
  End               |End         |Burley Park            |19:53:00 
+
+## attempt 3
+
+i plan on making at least one attempt the week of 2025-07-14 on a weekday using a weekly m-card pass.

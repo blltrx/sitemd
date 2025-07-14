@@ -1,4 +1,7 @@
 /projects/plat-0 /projects/plat0 301
 /projects/wyrail /projects/wymetro 301
+/wymetro /projects/wymetro 301
+/plat0 /projects/plat0 301
+/nanoquest /projects/nano 301
 /feed /feed.xml 301
 /rss /feed.xml 301

@@ -2,13 +2,16 @@
 path: projects/nano.html
 ---
 # NanoQuEST
+
+last updated: 2025-07-14
+
 between 2021 and 2023 i lead a research group as part of a school extracurricular project. NanoQuEST aimed to electrospin nanofibres. this pages aims at documenting a large chunk of the project. this page is primarily about the progress made while i was involved.
 
 
 ## background
 
-![example of a nanofibre, with a minimum diameter of 797nm](/assets/SEM-nanofiber.webp) [download](https://files.roseis.gay/nano/SEM-nanofiber.webp)  
-![](/assets/setupdiagram.webp) [download](https://files.roseis.gay/nano/setupdiagram.png)
+![example of a nanofibre, with a minimum diameter of 797nm](/assets/IMAGE-SEM-nanofiber.webp) [download](https://files.roseis.gay/nano/SEM-nanofiber.webp)  
+![](/assets/setupdiagram.webp) [download](https://files.roseis.gay/nano/IMAGE-setupdiagram.webp)
 
 we used two materials to create out nanofibres, alpha-cellulose and polyethylene oxide. We focused on the cellulose fibres as they tend to spin better.
 
@@ -24,7 +27,7 @@ we can spin the solutions by placing them in a syringe, and applying a high pote
 
 ![a needle full of a cellulose based electrospinning solution](/assets/IMAGE-a-solution.webp) [download](https://files.roseis.gay/nano/IMAGE-a-solution.jpg)
 
-our method sheet is [available for download](https://files.roseis.gay/nano/main.pdf) via files.roseis.gay
+<!-- our method sheet is [available for download](https://files.roseis.gay/nano/main.pdf) via files.roseis.gay -->
 
 ---
 
@@ -83,7 +86,7 @@ our mass uncertainty for individual measurements is +/- 0.2g, however there are 
 - there might have been moisture or debris on the syringe / needle cap  
 - the scale may not have been tared to be set to zero before a measurement on any given day
 
-the humidity and temperature the solutions were stored in was not tracked, and during the experiment there were some days with very high CO2 content and pollutants in the air that may have affected the humidity abnormally. (this was due to some soil burning in an adjacent lab).
+the humidity and temperature the solutions were stored in was not tracked, and during the experiment there were some days with vegrary high CO2 content and pollutants in the air that may have affected the humidity abnormally. (this was due to some soil burning in an adjacent lab).
 
 the individual mass change measurements were often within the uncertainty range, makes it practically impossible to draw any significant conclusions from this data.
 
@@ -163,7 +166,7 @@ we also attended the 2022/3 IRIS London conferences and presented our research a
   
 a lot of time (arguably too much) was dedicated to our b r a n d i n g. we made a logo, a theme colour, and a whole lot of posters and documents.  
 
-for resources and files, email me!
+for resources and files, email me! full names of students have been redacted.
 
 and that's NanoQuEST! its one of my favorite things i’ve been able to do so far. doing actual lab work that i have to design and manage myself for my own hypotheses is really fun, and i also got to do it with really nice people, which is also very cool.
 

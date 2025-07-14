@@ -21,14 +21,6 @@
   }
   a{color:#24ACD4;text-decoration:none;background-color:transparent}
   a:hover{text-decoration:underline}
-  .purple-box{
-    color:#CFCFCF;
-    background-color:#791EB4;
-    padding:3%;
-    margin-top:0%;
-    border-radius: 15px;
-    -moz-border-radius: 15px;
-  }
   .text-gray{color:#687079!important}
   </style>
     <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
@@ -39,11 +31,8 @@
       </head>
       <body>
         <nav>
-          <p class="purple-box">
-            this is an rss feed. subscribe by copying the url from the address bar into your newsreader.
-          </p>
           <p class="text-gray">
-            visit <a href="https://aboutfeeds.com">about feeds</a> to get started with newsreaders and subscribing. it’s free.
+            this is an rss feed! visit <a href="https://aboutfeeds.com">about feeds</a> to get started with newsreaders and subscribing. it’s free.
           </p>
         </nav>
         <div>
@@ -53,7 +42,7 @@
               visit website &#x2192;
             </a>
           </header>
-          <h2>recent items</h2>
+          <h2>posts</h2>
           <xsl:for-each select="/rss/channel/item">
             <div>
               <h3>

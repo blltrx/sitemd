@@ -3,9 +3,9 @@ path: projects/plat0.html
 ---
 
 # every platform zero ever
-currently at: 8/10 UK plat 0s <br>
-currently at: 8/11 European plat 0s<br>
-last updated: 2025-07-10
+currently at: 9/10 UK plat 0s <br>
+currently at: 9/11 European plat 0s<br>
+last updated: 2025-07-14
 
 i love trains for a lot of reasons, but one of them is that it is a human-serving system. like time zones, there is a rigid and predictable structure to it that is (hopefully) smart in design, but sometimes rules are broken and where they are it is usually so that people can actually use said system even if it does sacrifice uniformity. these anomalies in any system are really cool to me, and platform zeros are one of them
 
@@ -88,9 +88,15 @@ the platform zero at CDF serves early morning XC services and TfW (AW) services 
 
 <video width="100%" autoplay muted loop src="/assets/plat-0_CDF.mp4">your browser probably doesn't support mp4 files if you see this, sorry! (you can download the video <a href="/assetsplat-0_RDH.mp4" download >by clicking here</a>!</video>
 
-## next stop: Bradford Forster Square (BDQ)
+## Bradford Forster Square (BDQ)
 
-living in Leeds this one is easy, i just forgot to do it because i forgot the opening date. i plan on doing this in July '25.
+14/7/25
+
+i have now done this, an update will be written before the end of the day.
+
+## next stop: Edinburgh Haymarket (HYM)
+
+i have no idea how i'm going to do this one.
 
 ## where are the others?
 

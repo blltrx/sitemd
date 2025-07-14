@@ -4,6 +4,8 @@ path: projects/hot-choc.html
 
 # hot chocolate tierlist
 
+last updated: 2025-04-xx
+
 i've been ranking hot chocolate from various coffee shops for a little bit now, here are my reviews and current ranking. last updated 2025-04-24.
 
 ## Caffè Nero
