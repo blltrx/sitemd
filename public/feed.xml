@@ -10,6 +10,13 @@
     <description>rss feed for roseis.gay</description>
     
     <item>
+        <title>Bradford: 9th platfrom zero</title>
+        <description>i've done another platform zero! this time it's Bradford bringing me up to a total of 9!</description>
+        <link>/projects/plat0</link>
+        <pubDate>17 Jul 2025 20:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
         <title>Class 701, hot chocolate, and more</title>
         <description>i've now seperated some train content (only the not project style things) into a new section, /train! speaking of which, i finally managed to get a BR Class 701! also i've rated (and downgraded) more hot chocolates on my tierlist (/projects/hot-choc) and generally updated some small QoL stuff on the site :)</description>
         <link>/train/BR701</link>

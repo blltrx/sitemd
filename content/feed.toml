@@ -2,6 +2,12 @@
 # valid pubDate is 02 Oct 2025 08:00:00 GMT
 
 [[item]]
+title = "Bradford: 9th platfrom zero"
+link = "/projects/plat0"
+description = "i've done another platform zero! this time it's Bradford bringing me up to a total of 9!"
+pubDate = "17 Jul 2025 20:00:00 GMT"
+
+[[item]]
 title = "Class 701, hot chocolate, and more"
 link = "/train/BR701"
 description = "i've now seperated some train content (only the not project style things) into a new section, /train! speaking of which, i finally managed to get a BR Class 701! also i've rated (and downgraded) more hot chocolates on my tierlist (/projects/hot-choc) and generally updated some small QoL stuff on the site :)"

@@ -17,7 +17,7 @@ i would like to at least visit every platform zero in the UK, as we have the bul
 
 30/05/23
 
-these two stations were quite local at the time, and on a weird and quite long detour from my then usual journey towards London i can hit both of them. so i did!
+these two stations were quite local at the time, and on a weird and quite long detour from my then usual journey towards London i could hit both of them. so i did!
 
 the platform zero at RAI serves as one terminus of the Thameslink RAI-LUT services with 2tph off-peak, while the platform zero at GRV serves an Southeastern stopping service towards CST via WWA and CHX via SID at 2tph each off-peak. 
 <video width=100% autoplay muted loop src="/assets/plat-0_RAI_GRV.mp4">your browser probably doesn't support mp4 files if you see this, sorry! (you can download the video <a href="/assets/plat-0_RAI_GRV.mp4" download>by clicking here</a>!)</video>
@@ -27,7 +27,7 @@ the platform zero at RAI serves as one terminus of the Thameslink RAI-LUT servic
 
 08/08/23
 
-while not a usual journey, it is easy to do when i'm already in london, by taking a train to East Croyden, and getting on a TL service to Horsham.
+while not a usual journey, it's easy to do when i'm already in london, by taking a train to East Croyden, and getting on a TL service to Horsham.
 
 the platform zero at RDH serves the Great Western Railway RDG-GTW line, with 1tph off-peak. i got the service towards Gatwick, being run by a BR class 165.
 
@@ -42,7 +42,7 @@ with an anytime single between the south east and Leeds paid for by someone else
 
 once in Leeds, i took a Northern train to Burley Park (BUY) to take a train back from BUY to LDS, arriving at platform zero (b). the platform zero at LDS serves a variety of services through the West Junction.
 
-<video width="100%" autoplay muted loop src="/assets/plat-0_KGX_LDS.mp4">your browser probably doesn't support mp4 files if you see this, sorry! (you can download the video <a href="/assetsplat-0_RDH.mp4" download >by clicking here</a>!</video>
+<video width="100%" autoplay muted loop src="/assets/plat-0_KGX_LDS.mp4">your browser probably doesn't support mp4 files if you see this, sorry! (you can download the video <a href="/assetsplat-0_KGX_LDS.mp4" download >by clicking here</a>!</video>
 
 
 ## Doncaster (DON)
@@ -53,7 +53,7 @@ i got an LNER 225 from LDS to DON, and after a 30 min delay due to a power fault
 
 the platform zero at DON serves Northern services to SCU and HUL via KKS.
 
-<video width="100%" autoplay muted loop src="/assets/plat-0_DON.mp4">your browser probably doesn't support mp4 files if you see this, sorry! (you can download the video <a href="/assetsplat-0_RDH.mp4" download >by clicking here</a>!</video>
+<video width="100%" autoplay muted loop src="/assets/plat-0_DON.mp4">your browser probably doesn't support mp4 files if you see this, sorry! (you can download the video <a href="/assetsplat-0_DON.mp4" download >by clicking here</a>!</video>
 
 
 ## Stockport (STP)
@@ -74,7 +74,7 @@ arriving in MAN i was able to get the 0633 NT service to BUX, and alight at SPT 
 
 now, a full service seems to call at the platform on Wednesdays and Thursdays (late April '24). i made a [web scraper](/projects/plat0-scraper) that helped me with this platform.
 
-<video width="100%" autoplay muted loop src="/assets/plat-0_SPT.mp4">your browser probably doesn't support mp4 files if you see this, sorry! (you can download the video <a href="/assetsplat-0_RDH.mp4" download >by clicking here</a>!</video>
+<video width="100%" autoplay muted loop src="/assets/plat-0_SPT.mp4">your browser probably doesn't support mp4 files if you see this, sorry! (you can download the video <a href="/assetsplat-0_SPT.mp4" download >by clicking here</a>!</video>
 
 the platform zero at SPT serves EMR and Northern services to SHF and BUX via DVN
 
@@ -86,17 +86,21 @@ Cardiff is a difficult one, because it's consistently out the way of me. however
 
 the platform zero at CDF serves early morning XC services and TfW (AW) services to EBB.
 
-<video width="100%" autoplay muted loop src="/assets/plat-0_CDF.mp4">your browser probably doesn't support mp4 files if you see this, sorry! (you can download the video <a href="/assetsplat-0_RDH.mp4" download >by clicking here</a>!</video>
+<video width="100%" autoplay muted loop src="/assets/plat-0_CDF.mp4">your browser probably doesn't support mp4 files if you see this, sorry! (you can download the video <a href="/assetsplat-0_CDF.mp4" download >by clicking here</a>!</video>
 
 ## Bradford Forster Square (BDQ)
 
 14/7/25
 
-i have now done this, an update will be written before the end of the day.
+this is slightly embarrassing but i forgot about this one. it opened this year and i remember not being able to attend the opening, and after that just... forget. that's fine now because i have finally done it. with a quick hop over to BDQ (on a lovely LNER (GR) Azuma) i got the train back to LDS from the platform.
+
+the platform zero at BDQ serves a variety of NT services to LDS, ILK, and SKI. apparently there is also an early morning service to LAN as well.
+
+<video width="100%" autoplay muted loop src="/assets/plat-0_BDQ.mp4">your browser probably doesn't support mp4 files if you see this, sorry! (you can download the video <a href="/assetsplat-0_BDQ.mp4" download >by clicking here</a>!</video>
 
 ## next stop: Edinburgh Haymarket (HYM)
 
-i have no idea how i'm going to do this one.
+i have no idea how i'm going to do this one, but when i next go to Edinburgh i'll at least visit the platform.
 
 ## where are the others?
 
