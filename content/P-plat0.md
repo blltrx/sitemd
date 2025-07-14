@@ -112,10 +112,10 @@ i've already been to:
 -   Doncaster (DON)
 -   Stockport (SPT)
 -   Cardiff Central (CDF)
+-   Bradford Forster Square (BDQ)
 
 and am yet to go to:
 
--   Bradford Forster Square (BDQ)
 -   Edinburgh Haymarket (HYM)
 
 there was some talk that [Preston's mail platform might be converted into a platform zero](https://assets.hs2.org.uk/wp-content/uploads/2021/06/RWU-2021-P20_Preston_6pp-web.pdf), but this seemed to based on increased service because of HS2 phase 2, so idk if this will happen.
