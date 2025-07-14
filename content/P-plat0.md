@@ -15,7 +15,7 @@ i would like to at least visit every platform zero in the UK, as we have the bul
 
 ## Rainham (RAI) and Gravesend (GRV)
 
-30/05/23
+2023-05-30
 
 these two stations were quite local at the time, and on a weird and quite long detour from my then usual journey towards London i could hit both of them. so i did!
 
@@ -25,7 +25,7 @@ the platform zero at RAI serves as one terminus of the Thameslink RAI-LUT servic
 
 ## Redhill (RDH)
 
-08/08/23
+2023-08-08
 
 while not a usual journey, it's easy to do when i'm already in london, by taking a train to East Croyden, and getting on a TL service to Horsham.
 
@@ -36,7 +36,7 @@ the platform zero at RDH serves the Great Western Railway RDG-GTW line, with 1tp
 
 ## London King's Cross (KGX) and Leeds (LDS)
 
-13/09/23
+2023-09-13
 
 with an anytime single between the south east and Leeds paid for by someone else, i can take any train, including the 0703 KGX to LDS from platform zero. i also managed to get a 1st class upgrade for £8! this platform at KGX serves intercity services on the East Coast Mainline, primarily from LNER, but also Lumo, Grand Central, and Hull Trains.
 
@@ -47,7 +47,7 @@ once in Leeds, i took a Northern train to Burley Park (BUY) to take a train back
 
 ## Doncaster (DON)
 
-07/10/23
+2023-10-07
 
 i got an LNER 225 from LDS to DON, and after a 30 min delay due to a power fault on our train we arrived at DON missing my connection. after waiting around for an hour, i was able to get a train to HUL from the platform zero.
 
@@ -58,7 +58,7 @@ the platform zero at DON serves Northern services to SCU and HUL via KKS.
 
 ## Stockport (STP)
 
-17/04/24
+2024-04-17
 
 i've attempted stockport a number of times over the last 6 months, but due to its inconsistent calling pattern i've not been able to get a train to or from the platform zero. generally, only the first three services to platform zero actually call there (with regular but sometime unpredictable exceptions).
 
@@ -80,7 +80,7 @@ the platform zero at SPT serves EMR and Northern services to SHF and BUX via DVN
 
 ## Cardiff Central (CDF)
 
-17/7/24
+2024-07-17
 
 Cardiff is a difficult one, because it's consistently out the way of me. however, with a lot of ticket splitting (8 tickets in total) i set off to VIC on an SE service, changed to PAD (making sure to go a convoluted route so i get to use the purple trains) and get a GWR service to GCR. here, i planned to change to a XC service the rest of the way to CDF, but typical of XC, it was cancelled. thankfully a kind GWR guard let me use my XC ticket on their service, and i made it to CDF. from there, i got a TfW service to PYE from the platform.
 
@@ -90,7 +90,7 @@ the platform zero at CDF serves early morning XC services and TfW (AW) services 
 
 ## Bradford Forster Square (BDQ)
 
-14/7/25
+2025-07-14
 
 this is slightly embarrassing but i forgot about this one. it opened this year and i remember not being able to attend the opening, and after that just... forget. that's fine now because i have finally done it. with a quick hop over to BDQ (on a lovely LNER (GR) Azuma) i got the train back to LDS from the platform.
 
