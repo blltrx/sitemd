@@ -100,7 +100,7 @@ the platform zero at BDQ serves a variety of NT services to LDS, ILK, and SKI. a
 
 ## next stop: Edinburgh Haymarket (HYM)
 
-i have no idea how i'm going to do this one, but when i next go to Edinburgh i'll at least visit the platform.
+i have no idea how i'm going to do this one, but when i next time i go to Edinburgh i'll at least visit the platform.
 
 ## where are the others?
 
