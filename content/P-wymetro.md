@@ -5,6 +5,7 @@ path: projects/wymetro.html
 # speedrunning the national rail west yorkshire metro area
 
 last updated: 2025-07-17
+
 current time: 16h32
 
 [TOC]
@@ -164,7 +165,7 @@ In Station         |Start       |Micklefield            |12:10:00
 
 ## record 1 / attempt 3
 
-on July 15th 2025 i made another attempt of the speedrun, which became my first successful attempt at **16h 32m**.
+on July 15th 2025 i made another attempt of the speedrun, which became my first successful attempt at ==16h 32m==.
 
 i started with the line up to Walsden, before doing the line up to Marsden. i then did the penistone line (including going outside of West Yorkshire to enable me to efficiently get between Denby Dale and Darton). after which i managed to complete the Pontefract Baghill line (ticking off many lines on the way) before completing the Airedale and Wharfedale lines. after this i just had the Horsforth and Micklefield lines, as well as the Dewsbury line up to Ravensthorpe in addition to three left out stations (Streethouse, Featherstone, and Normanton).
 
