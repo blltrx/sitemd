@@ -2,14 +2,16 @@
 path: other/testing.html
 ---
 
-[TOC]
-
-# Header 1
-
-## Header 2
-
 # testing
 
+
+[TOC]
+
+## Header 1
+
+### Header 2
+
+## heading 3
 
 this page [^1] is to test the md to html parser
 
