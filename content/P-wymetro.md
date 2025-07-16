@@ -4,9 +4,8 @@ path: projects/wymetro.html
 
 # speedrunning the national rail west yorkshire metro area
 
+current time: 16h32<br>
 last updated: 2025-07-17
-
-current time: 16h32
 
 [TOC]
 
