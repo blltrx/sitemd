@@ -84,11 +84,11 @@ td {
 code {
   margin-left: auto;
   margin-right: auto;
-  background: var(--black);
+  background: var(--dark);
   -moz-border-radius: 15px;
   border-radius: 15px;
   padding: 10px;
-
+  max-width: 100%;
 }
 
 ::selection {
