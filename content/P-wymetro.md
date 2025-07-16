@@ -18,7 +18,7 @@ in West Yorkshire.
 Nation Rail within West Yorkshire is divided into 5 zones[^1] by Metro[^2] (as well as extra 
 zones to Skipton and Harrogate not shown). within these 5 zones day/season 
 tickets are available at a subsized price, with a standard DaySaver (rail-only) 
-ticket is ~£9.10~ £9.90. with 70 stations on the network, i thought why not speedrun it?
+ticket is <s>£9.10</s> £9.90. with 70 stations on the network, i thought why not speedrun it?
 
 ![west yorkshire metro rail map](/assets/wyrailmap.svg)
 map adapted from pdf via [m-card.co.uk](https://www.m-card.co.uk/media/1204/metro-rail-map-zones-1-7-2021.pdf) (without permission)
@@ -165,7 +165,7 @@ In Station         |Start       |Micklefield            |12:10:00
 
 ## record 1 / attempt 3
 
-on July 15th 2025 i made another attempt of the speedrun, which became my first successful attempt at =16h 32m=.
+on July 15th 2025 i made another attempt of the speedrun, which became my first successful attempt at <b>16h 32m</b>.
 
 i started with the line up to Walsden, before doing the line up to Marsden. i then did the penistone line (including going outside of West Yorkshire to enable me to efficiently get between Denby Dale and Darton). after which i managed to complete the Pontefract Baghill line (ticking off many lines on the way) before completing the Airedale and Wharfedale lines. after this i just had the Horsforth and Micklefield lines, as well as the Dewsbury line up to Ravensthorpe in addition to three left out stations (Streethouse, Featherstone, and Normanton).
 
