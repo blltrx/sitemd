@@ -27,11 +27,13 @@
       <a href="/meta" class="white spacedLink">about</a>
     </div>
 
-<h1 class="title"><span class="hash">#</span>historical platform allocation scraper 🦀</h1>
+<h1 id="historical-platform-allocation-scraper">historical platform allocation scraper 🦀</h1>
 <p>last updated: 2024-06-16</p>
 <p>as part of my mission to <a href="/projects/plat0">visit every platform zero</a>, i needed to know what the calling pattern at Stockport station was at its platform zero. unfortunately it seemed very irregular as to which booked services actually called at the platform. as such, i made this scraper for <a href="https://realtimetrains.co.uk">RealTimeTrains</a> that looks at actual historical platform allocation for all services at any UK railway station for any time period that RealTimeTrains holds such data. where a platform cannot be determined (either because it's a bus replacement service, or the train hasn't yet called at the station) it is set as 255.</p>
 <p>and yes i know RTT has an api.</p>
-<p>it outputs a csv style output to stdout, and can be found <a href="https://github.com/blltrx/plat0">on my github</a>. it can be installed using 'cargo install --git'.</p>
+<p>it outputs a csv style output to stdout, and can be found <a href="https://github.com/blltrx/plat0">on my github</a>. it can be installed using</p>
+<pre><code>cargo install --git https://github.com/blltrx/plat0
+</code></pre>
 
     <div id="foot" class="monospaced">
         <div>

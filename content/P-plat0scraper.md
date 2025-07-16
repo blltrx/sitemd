@@ -10,4 +10,8 @@ as part of my mission to [visit every platform zero](/projects/plat0), i needed 
 
 and yes i know RTT has an api.
 
-it outputs a csv style output to stdout, and can be found [on my github](https://github.com/blltrx/plat0). it can be installed using 'cargo install --git'.
+it outputs a csv style output to stdout, and can be found [on my github](https://github.com/blltrx/plat0). it can be installed using
+
+```
+cargo install --git https://github.com/blltrx/plat0
+```

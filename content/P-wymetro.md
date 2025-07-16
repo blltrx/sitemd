@@ -164,6 +164,6 @@ In Station         |Start       |Micklefield            |12:10:00
                    |            |Headingly              |19:49:00 
  End               |End         |Burley Park            |19:53:00 
 
-## attempt 3
+## record 1 / attempt 3
 
 i plan on making at least one attempt the week of 2025-07-14 on a weekday using a weekly m-card pass.

@@ -17,7 +17,7 @@ requires markdown from pip 'pip install markdown'
 DEBUG = False
 EXCLUDE_EXTRA = False
 EXCLUDE_HEAD = False
-MARKDOWN_EXTENTIONS = ['extra']
+MARKDOWN_EXTENTIONS = ['extra', 'toc']
 path = ""
 root = ""
 

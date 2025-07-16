@@ -24,5 +24,8 @@ this project is largely abandoned now because i now exclusively use paper and a 
 <!-- - better error handling -->
 <!-- - maybe if i can work out non-blocking api requests so it doesn't feel as slow -->
 
-you can find the [client here on my github](https://github.com/blltrx/todoist-rs), and install using 'cargo install --git'.
+you can find the [client here on my github](https://github.com/blltrx/todoist-rs), and install using
 
+```
+cargo install --git https://github.com/blltrx/todoist-rs
+```
