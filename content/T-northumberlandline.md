@@ -2,7 +2,7 @@
 path: train/northumberlandline.html
 ---
 
-# visiting the Northumberland Line 
+# visiting the northumberland line 
 
 on December 15th 2024, the date of the National Rail timetable change, i visited newcastle to go ride the newly restored and reopened Northumberland Line. 
 

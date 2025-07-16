@@ -4,19 +4,17 @@ path: projects/wymetro.html
 
 # speedrunning the national rail west yorkshire metro area
 
-last updated: 2025-07-14
-<!--toc:start-->
-- [speedrunning the national rail west yorkshire metro area](#speedrunning-the-national-rail-west-yorkshire-metro-area)
-  - [attempt 1](#attempt-1)
-  - [attempt 2](#attempt-2)
-<!--toc:end-->
+last updated: 2025-07-17
+current time: 16h32
+
+[TOC]
 
 'Metro' is a brand belonging to the West Yorkshire Combined Authority (WYCA),
 since the West Yorkshire Passenger Transport Executive was dissolved on April
 1st, 2014. WYCA, amongst other things, sets regional transport policy, including providing funding bus 
 routes and subsidising rail travel. they also have funded several railway stations
 in West Yorkshire.
-Nation Rail within West Yorkshire is divided into 5 zones by Metro (as well as extra 
+Nation Rail within West Yorkshire is divided into 5 zones[^1] by Metro[^2] (as well as extra 
 zones to Skipton and Harrogate not shown). within these 5 zones day/season 
 tickets are available at a subsized price, with a standard DaySaver (rail-only) 
 ticket is £9.10. with 70 stations on the network, i thought why not speedrun it?
@@ -166,4 +164,136 @@ In Station         |Start       |Micklefield            |12:10:00
 
 ## record 1 / attempt 3
 
-i plan on making at least one attempt the week of 2025-07-14 on a weekday using a weekly m-card pass.
+on July 15th 2025 i made another attempt of the speedrun, which became my first successful attempt at **16h 32m**.
+
+i started with the line up to Walsden, before doing the line up to Marsden. i then did the penistone line (including going outside of West Yorkshire to enable me to efficiently get between Denby Dale and Darton). after which i managed to complete the Pontefract Baghill line (ticking off many lines on the way) before completing the Airedale and Wharfedale lines. after this i just had the Horsforth and Micklefield lines, as well as the Dewsbury line up to Ravensthorpe in addition to three left out stations (Streethouse, Featherstone, and Normanton).
+
+at the end to avoid a replacement bus back from Micklefield i continued to Selby and got a TP service back home. unfortunabtly i was not able to use the Grand Central Bradford service at all in this run which would have been fun, but i did manage to get an LNER service between Horsforth and Wakefield Westgate.
+
+this was done on a weekday with a weekly M-Card zones 1-5 pass (the student/u26 one), as well as a few extra tickets (Denby Dale to Darton via Barnsley, as well as the tickets between Micklefield and Selby and then back home).
+
+i had very good luck the entire day, with so significant delays and zero cancellations. i think my starting train was a good decision, and i made some well thought out last minute journey decisions that increased my efficiency a lot. honestly i don't think i can do much better than this, but i'll have another go at some point.
+
+ below, as ever, is my log:
+
+Service |Station                |Time
+--------|-----------------------|--------
+1D70    |Leeds                  |0543
+        |Bramley                |0549
+        |New Pudsey             |0553
+        |Bradford Interchange   |0601
+        |Low Moor               |0609
+        |Halifax                |0616
+        |Sowerby Bridge         |0623
+        |Mytholmroyd            |0629
+        |Hebden Bridge          |0632
+        |Todmorden              |0638
+2K62    |Todmorden              |0654
+        |Walsden                |0656
+2I01    |Walsden                |0704
+        |...                    |
+        |Mirfield               |0742
+2U30    |Mirfield               |0747
+        |Deighton               |0752
+        |Huddersfield           |0756
+        |Slaithwaite            |0803
+        |Marsden                |0808
+2U35    |Marsden                |0832
+        |...                    |
+        |Huddersfield           |0841
+2B09    |Huddersfield           |0913
+        |Lockwood               |0915
+        |Berry Brow             |?
+        |Honley                 |?
+        |Brockholes             |0924
+        |Stocksmoor             |0928
+        |Shepley                |0931
+        |Denby Dale             |0935
+        |...                    |
+        |Barnsley               |0959
+2L10    |Barnsley               |1030
+        |Darton                 |1035
+        |Wakefield Kirkgate     |1049
+2Y10    |Wakefield Kirkgate     |1056
+        |Leeds                  |1113
+2B13    |Leeds                  |1121
+        |Outwood                |1130
+        |Wakefield Westgate     |1135
+        |Sandal & Agbrigg       |1139
+        |Fitzwilliam            |1145
+        |South Elmsall          |1159
+2Y74    |Moorthorpe             |1214
+        |Pontefract Baghill     |1224
+2A15    |Pontefract Tanshelf    |1301
+        |Pontefract Monkhill    |1304
+        |Knottingley            |1308
+2F56    |Knottingley            |1315
+        |...                    |
+        |Glasshoughton          |1324
+        |Castleford             |1329
+        |Woodlesford            |1341
+        |Leeds                  |1357
+2P50    |Leeds                  |1412
+        |Kirkstall Forge        |1421
+        |Apperley Bridge        |1426
+        |Shipley                |1430
+2H46    |Shipley                |1441
+        |Saltaire               |1444
+        |Bingley                |1448
+        |Crossflatts            |1450
+        |Keighley               |1454
+        |Steeton & Silsden      |1459
+2S37    |Steeton & Silsden      |1514
+        |...                    |
+        |Shipley                |1531
+2D66    |Shipley                |1553
+        |Baildon                |1557
+        |Guiseley               |1602
+        |Menston                |1605
+        |Burley-in-Wharfedale   |1608
+        |Ben Rhydding           |1612
+        |Ilkley                 |1618
+2D69    |Ilkley                 |1621
+        |...                    |
+        |Frizinghall            |1648
+        |Bradford Forster Square|1652
+2P61    |Bradford Forster Square|1700
+        |...                    |
+        |Leeds                  |1725
+2C54    |Leeds                  |1730
+        |Burley Park            |1735
+        |Headingley             |1738
+        |Horsforth              |1743
+1A46    |Horsforth              |1752
+        |...                    |
+        |Wakefield Westgate     |1829
+2A27    |Wakefield Westgate     |1843
+        |Wakefield Kirkgate     |1848
+        |Streethouse            |1856
+        |Featherstone           |1900
+        |Pontefract Tanshelf    |1904
+        |Pontefract Monkhill    |1907
+2F68    |Pontefract Monkhill    |1920
+        |Glasshoughton          |1925
+        |Castleford             |1937
+2L79    |Castleford             |1949
+        |Normanton              |1957
+2U82    |Normanton              |2022
+        |...                    |
+        |Mirfield               |2043
+2J79    |Mirfield               |2058
+        |Ravensthorpe           |2101
+        |Dewsbury               |2104
+        |Datley                 |2111
+        |Morley                 |2116
+        |Cottingley             |2120
+        |Leeds                  |2129
+2K34    |Leeds                  |2156
+        |Cross Gates            |2202
+        |Garforth               |2207
+        |East Garforth          |2210
+        |Micklefield            |2215
+
+
+[^1]: at some point i filled out a consultation for Metro about reducing the number of zones down as part of ticket simplification. idk if they still plan on considering this but i assume it will be after the bus nationalisation if they do.
+[^2]: this is soon to be rebranded as the Weaver Network (which genuinely is branding i really like) as part of bus nationalisation for West Yorkshire (and the mass transit tram construction), but no branding has actually been put up anywhere yet. i'll update this page when they do change this however.
