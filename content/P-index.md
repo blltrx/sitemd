@@ -11,8 +11,8 @@ highlights:
 
 more stuff:
 
-- [dotfiles](/projects/dotfiles) ⚙️ (lu: '25-07-14)
 - [hot chocolate tierlist](/projects/hot-choc) ☕ (lu: '25-04-xx)
+- [dotfiles](/projects/dotfiles) ⚙️ (lu: '25-07-14)
 - [rose's train microblog](/train) 🚆 (lu: '25-02-14)
 - [todoist-rs](/projects/todoist-rs) 🦀 (lu: '24-06-13)
 - [platform zero focused realtimetrains scraper](/projects/plat0-scraper) 🦀 (lu: '24-06-16)

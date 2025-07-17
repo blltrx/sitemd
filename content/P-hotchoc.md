@@ -4,7 +4,7 @@ path: projects/hot-choc.html
 
 # hot chocolate tierlist
 
-last updated: 2025-04-xx
+last updated: 2025-07-17
 
 i've been ranking hot chocolate from various coffee shops for a little bit now, here are my reviews and current ranking. last updated 2025-04-24.
 
@@ -12,6 +12,8 @@ i've been ranking hot chocolate from various coffee shops for a little bit now, 
 hot chocolate classic: a bit bland and a bit sweet honestly fine. i've using this to be the reference point. (C)
 
 luxury hot chocolate: richer, in some ill-defined way, better texture, different taste (better but not for me). (C)
+
+white hot chocolate ('25-07): actually very nice, thicker licer texture, all over very good. (B+)
 
 ## Spring Espresso (York)
 a perfect basic hot chocolate. very solid no flaws. (B)
@@ -87,6 +89,9 @@ brilliant hot chocolate poweder, but not made very well. texture definitely not 
 ## Hot Numbers (Cambridge) ('25-4)
 like stage, but even more to cocoa-y and bitter for me (B)
 
+## Kapow ('25-6)
+very pretty, perfect texture, but way too bitter and cocoa-y, not to my taste. very milky however (yay).(C-)
+
 ## current ranking
 
 tier | hot chocolates 
@@ -97,15 +102,17 @@ S-   | C (Galaxy)
 A+   | C (Cadbury), Wapentake
 A    | Stage (malt), Winter Tent (caramel) 
 A-   | Stage, Mog's  
-B+   | H, Kulture, Revive 
+B+   | H, Kulture, Revive, Nero (white) 
 B    | Spring Espresso, Stage (peppermint), Hot #'s
 B-   | Flamingo, 200°
 C+   | Canterbury Tails, Stage (oat)  
 C    | Nero, Nero (luxury), Costa (black forest) 
-C-   | Costa, 92° 
+C-   | Costa, 92°, Kapow
 D+   |   
 D    | Cooplands 
 D-   | GFAL  
 F+   | Spoons, Chocomel  
 F    |  
 F-   |   
+
+

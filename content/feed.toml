@@ -2,6 +2,12 @@
 # valid pubDate is 02 Oct 2025 08:00:00 GMT
 
 [[item]]
+title = "new hot chocolate rating"
+link = "projects/hot-choc"
+description = "i had my last nectar voucher for a Nero drink, so i've rated their white hot chocolate as a B+"
+pubDate = "17 Jul 2025 20:30:00 BST"
+
+[[item]]
 title = "west yorkshire metro speedrun record set!!!!"
 link = "projects/wymetro"
 description = "after three attempts, i've finally managed to complete my Metro speedrun!"

@@ -10,6 +10,13 @@
     <description>rss feed for roseis.gay</description>
     
     <item>
+        <title>new hot chocolate rating</title>
+        <description>i had my last nectar voucher for a Nero drink, so i've rated their white hot chocolate as a B+</description>
+        <link>projects/hot-choc</link>
+        <pubDate>17 Jul 2025 20:30:00 BST</pubDate>
+    </item>
+    
+    <item>
         <title>west yorkshire metro speedrun record set!!!!</title>
         <description>after three attempts, i've finally managed to complete my Metro speedrun!</description>
         <link>projects/wymetro</link>
