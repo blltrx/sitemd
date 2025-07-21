@@ -62,7 +62,6 @@ def addHashMarkToHTML(htmlstring: str) -> str:
             print(f"[DEBUG]: hashmark fail with {exception}")
         return htmlstring
 
-
 def createPageString(contentstring: str) -> str:
     """return string of html file with parameters in 'htmlconfig.py',
     with content defined in an input string in html format"""
