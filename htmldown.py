@@ -49,18 +49,19 @@ if "-h" in argvars or "--help" in argvars or "-help" in argvars:
 def addHashMarkToHTML(htmlstring: str) -> str:
     """return htmlstring but with decorative element
     added infront of the first instance of heading 1"""
-    try:
-        h1start, h1end = re.compile("<h1.*?>").search(htmlstring).span()
+    if match := re.compile("<h1.*?>").search(htmlstring): # checks if there is a match
+        h1start, h1end = match.span()
         HASHMARKSTRING = '<h1 class="title"><span class="hash">#</span>'
         (htmlstring) = (
             htmlstring[:h1start] +
             HASHMARKSTRING +
             htmlstring[h1end:])
         return htmlstring
-    except ValueError as exception:
+    else: # where no regex match in string
         if DEBUG:
-            print(f"[DEBUG]: hashmark fail with {exception}")
+            print(f"[DEBUG]: regex <h1.*?> could not be matched in page")
         return htmlstring
+
 
 def createPageString(contentstring: str) -> str:
     """return string of html file with parameters in 'htmlconfig.py',
