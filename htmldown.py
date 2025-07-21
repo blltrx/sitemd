@@ -57,7 +57,9 @@ def addHashMarkToHTML(htmlstring: str) -> str:
             htmlstring[h1index+4:])
         # 4 is the length of the substring
         return htmlstring
-    except ValueError:
+    except ValueError as exception:
+        if DEBUG:
+            print(f"[DEBUG]: hashmark fail with {exception}")
         return htmlstring
 
 
