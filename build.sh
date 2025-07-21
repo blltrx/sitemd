@@ -3,7 +3,7 @@
 filelist=$(ls -l content/*.md | awk '{print $9'})
 for file in $filelist
 do
-    python htmldown.py $file
+    python htmldown.py -v $file
 done
 
 python rss_build.py
