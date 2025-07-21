@@ -1,5 +1,6 @@
 # !/usr/bin/python3
 import sys
+import re
 import markdown as md
 import htmlconfig as html
 
@@ -49,13 +50,12 @@ def addHashMarkToHTML(htmlstring: str) -> str:
     """return htmlstring but with decorative element
     added infront of the first instance of heading 1"""
     try:
-        h1index = htmlstring.index("<h1>")
+        h1start, h1end = re.compile("<h1.*?>").search(htmlstring).span()
         HASHMARKSTRING = '<h1 class="title"><span class="hash">#</span>'
         (htmlstring) = (
-            htmlstring[:h1index] +
+            htmlstring[:h1start] +
             HASHMARKSTRING +
-            htmlstring[h1index+4:])
-        # 4 is the length of the substring
+            htmlstring[h1end:])
         return htmlstring
     except ValueError as exception:
         if DEBUG:
