@@ -1,6 +1,8 @@
 let
   pkgs = import <nixpkgs> {};
-in pkgs.mkShell {
+in
+pkgs.mkShell {
+  name = "python-htmldown";
   packages = [
     (pkgs.python3.withPackages (python-pkgs: [
       # python-pkgs.pandas
@@ -8,4 +10,5 @@ in pkgs.mkShell {
       python-pkgs.markdown
     ]))
   ];
+  shellHook = "zellij";
 }
