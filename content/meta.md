@@ -21,7 +21,7 @@ you can find my feed at [/feed.xml](/feed.xml). it's the best way to see what is
 ## contact and socials
 
 - email (preferred contact method): [hello@roseis.gay](mailto:hello@roseis.gay)
-    - [i have a pgp key if you're into that kind of thing](/assets/publickey.hello@roseis.gay-365614e06bc4c01669d1f54c112c89a83ed4e241.asc)
+    - [i have a pgp key if you're into that kind of thing](/assets/publickey.hello@roseis.gay-365614e06bc4c01669d1f54c112c89a83ed4e241.asc){:target="_blank"}
 - tumblr: [blltrxrose](https://tumblr.bellatrix.dev) (where i spend most my time now)
 - github: [@blltrx](https://github.com/blltrx) (i'm bad at rust)
 
