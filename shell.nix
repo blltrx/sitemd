@@ -1,6 +1,4 @@
-let
-  pkgs = import <nixpkgs> {};
-in
+{ pkgs }:
 pkgs.mkShell {
   name = "python-htmldown";
   packages = [
