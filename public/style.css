@@ -222,6 +222,10 @@ code {
   width: 90%;
 }
 
+.gallery {
+  max-width: 90vw;
+}
+
 .button {
   display: block;
   margin: 0px;

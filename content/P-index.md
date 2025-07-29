@@ -11,6 +11,7 @@ highlights:
 
 more stuff:
 
+- [gallery](/gallery) 📷 (lu: '25-07-29)
 - [hot chocolate tierlist](/projects/hot-choc) ☕ (lu: '25-04-xx)
 - [dotfiles](/projects/dotfiles) ⚙️ (lu: '25-07-14)
 - [rose's train microblog](/train) 🚆 (lu: '25-02-14)
