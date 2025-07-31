@@ -53,7 +53,7 @@
                   <xsl:value-of select="title"/>
                 </a>
               </h3>
-              <xsl:value-of select="description"/><br/>
+              <xsl:value-of select="substring(description,1,300)"/><br/>
               <small class="text-gray">
                 published: <xsl:value-of select="pubDate" />
               </small>
