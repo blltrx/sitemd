@@ -15,7 +15,7 @@ TOP = """
 HEADERS = """
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/cascadia-code.min.css
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/cascadia-code.min.css">
     <meta name="description" content="website for rose / bellatrix">
     <meta property="og:title" content="blltrx" />
     <meta property="og:image" content="/assets/azuuuma.webp" />
