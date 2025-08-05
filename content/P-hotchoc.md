@@ -91,6 +91,7 @@ like stage, but even more to cocoa-y and bitter for me (B)
 
 ## Kapow ('25-6)
 1: very pretty, perfect texture, but way too bitter and cocoa-y, not to my taste. very milky however (yay).(C-)
+
 2: not sure why these ones were different, but they were sweet, could be richer, and had a lovely thicker texture (S-)
 
 ## current ranking
