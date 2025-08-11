@@ -1,7 +1,7 @@
 ---
 path: projects/index.html
 ---
-# projects (=^ • ^=)
+# projects (=^ • ^=)
 highlights:
 
 - [speedrunning west yorkshire rail](/projects/wymetro) ⭐🚆 (lu: '25-07-17)
