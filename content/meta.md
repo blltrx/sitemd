@@ -11,7 +11,6 @@ ex-catgirl puppygirl, a big fan of trains, and a capital letter hater. beyond th
 i use they/she pronouns and have some amount of gender, probably a lesbian, and i'm bad at maths.
 
 <div class="buttonContainer">
-  <img src=/assets/8831-willwood.png class="button" alt="will wood's music makes this user's brain go brrrrrrr" loading=lazy width=200 height=43>
   <a href="https://badge.les.bi"> <img src="https://badge.les.bi/88x31/trans/lesbi/heart-split/outset.svg" class="button" ></a>
 </div>
 
