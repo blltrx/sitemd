@@ -22,7 +22,6 @@ you can find my feed at [/feed.xml](/feed.xml). it's the best way to see what is
 
 - email (preferred contact method): [hello@roseis.gay](mailto:hello@roseis.gay)
     - [pgp fingerprint: 365614e06bc4c01669d1f54c112c89a83ed4e241](/assets/publickey.hello@roseis.gay-365614e06bc4c01669d1f54c112c89a83ed4e241.asc){:target="_blank"}
-- tumblr: [blltrxrose](https://tumblr.bellatrix.dev) (where i spend most my time now)
 - github: [@blltrx](https://github.com/blltrx) (i'm bad at rust)
 
 this website is just a [git repo](https://github.com/blltrx/sitemd) deployed using cloudflare [pages.dev](https://pages.cloudflare.com/), and build from markdown using [a little python script](https://github.com/blltrx/htmldown).
