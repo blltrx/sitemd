@@ -8,5 +8,5 @@ pkgs.mkShell {
       python-pkgs.markdown
     ]))
   ];
-  shellHook = "zellij";
+  shellHook = "./build.sh && git push";
 }
