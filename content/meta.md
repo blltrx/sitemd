@@ -25,17 +25,6 @@ you can find my feed at [/feed.xml](/feed.xml). it's the best way to see what is
 
 this website is just a [git repo](https://github.com/blltrx/sitemd) deployed using cloudflare [pages.dev](https://pages.cloudflare.com/), and build from markdown using [a little python script](https://github.com/blltrx/htmldown).
 
-## site plan?
-
-- update plat0 page with BDQ
-- update links on nano
-  - main.pdf with proper redactions
-  - poster 2022 with proper redactions
-- add posts to rss feed
-- write that rss blog post
-
-as ever, the best way to stay up to date is the rss feed.
-
 ## privacy
 
 the johnvertisement below means your ip might be shared with [citrons.xyz](https://citrons.xyz).
