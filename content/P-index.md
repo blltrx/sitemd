@@ -6,7 +6,6 @@ highlights:
 
 - [speedrunning west yorkshire rail](/projects/wymetro) ⭐🚆 (lu: '25-07-17)
 - [every platform zero ever](/projects/plat0) ⭐🚆 (lu: '25-07-14)
-- [NanoQuEST](/projects/nano) ⭐🔬 (lu: '25-07-14)
 - [a kind of blog i guess](/blog) ⭐📖 (lu: '25-07-14)
 
 more stuff:
