@@ -4,3 +4,6 @@
 /plat0 /projects/plat0 301
 /feed /feed.xml 301
 /rss /feed.xml 301
+/assets/ssh /assets/id_ed25519_def.pub 301
+/assets/email/blltrx /assets/publickey.blltrx@roseis.gay-d8b3ab5824caa6973f79641c48ca7a235ed32312.asc 301
+/assets/email/hello /assets/publickey.hello@roseis.gay-365614e06bc4c01669d1f54c112c89a83ed4e241.asc 301
