@@ -1,2 +1,4 @@
 /assets/publickey*
 	Content-Type: text/plain
+/assets/*.pub
+	Content-Type: text/plain
