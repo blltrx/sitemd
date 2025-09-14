@@ -172,7 +172,7 @@ at the end to avoid a replacement bus back from Micklefield i continued to Selby
 
 this was done on a weekday with a weekly M-Card zones 1-5 pass (the student/u26 one), as well as a few extra tickets (Denby Dale to Darton via Barnsley, as well as the tickets between Micklefield and Selby and then back home).
 
-i had very good luck the entire day, with so significant delays and zero cancellations. i think my starting train was a good decision, and i made some well thought out last minute journey decisions that increased my efficiency a lot. honestly i don't think i can do much better than this, but i'll have another go at some point.
+i had very good luck the entire day, with no significant delays and zero cancellations. i think my starting train was a good decision, and i made some well thought out last minute journey decisions that increased my efficiency a lot. honestly i don't think i can do much better than this, but i'll have another go at some point.
 
  below, as ever, is my log:
 
