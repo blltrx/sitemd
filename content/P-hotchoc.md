@@ -14,7 +14,7 @@ tier | hot chocolates
 -----|-----------------
 S+   |   
 S    |  
-S-   | C (Galaxy), Kapow (2), Stage (white)
+S-   | C (Galaxy), Kapow (calls), Stage (white)
 A+   | C (Cadbury), Wapentake
 A    | Stage (malt), Winter Tent (caramel) 
 A-   | Stage, Mog's  
@@ -23,7 +23,7 @@ B    | Spring Espresso, Stage (peppermint), Hot #'s
 B-   | Flamingo, 200°
 C+   | Canterbury Tails, Stage (oat)  
 C    | Nero, Nero (luxury), Costa (black forest) 
-C-   | Costa, 92°, Kapow (1)
+C-   | Costa, 92°, Kapow (thorntons)
 D+   | Prufrock
 D    | Cooplands 
 D-   | GFAL  
@@ -118,9 +118,9 @@ brilliant hot chocolate poweder, but not made very well. texture definitely not 
 like stage, but even more to cocoa-y and bitter for me (B)
 
 ### Kapow ('25-6)
-1: very pretty, perfect texture, but way too bitter and cocoa-y, not to my taste. very milky however (yay).(C-)
+Thorntons Arcade: very pretty, perfect texture, but way too bitter and cocoa-y, not to my taste. very milky however (yay).(C-)
 
-2: not sure why these ones were different, but they were sweet, could be richer, and had a lovely thicker texture (S-)
+The Calls: this one was very different, sweet, could be richer, and had a lovely thicker texture (S-)
 
 ### Prufrock Coffee ('25-09)
 very bitter, fancy in a way i do not like, good texture however (D+)
