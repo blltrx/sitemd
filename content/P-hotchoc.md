@@ -4,7 +4,7 @@ path: projects/hot-choc.html
 
 # hot chocolate tierlist
 
-last updated: 2025-09-14
+last updated: 2025-09-20
 
 i've been ranking hot chocolate from various coffee shops for a little bit now, here are my reviews and current ranking. last updated 2025-04-24.
 
@@ -13,13 +13,13 @@ i've been ranking hot chocolate from various coffee shops for a little bit now, 
 tier | hot chocolates 
 -----|-----------------
 S+   |   
-S    |  
+S    | CUP+LID (original) 
 S-   | C (Galaxy), Kapow (calls), Stage (white)
-A+   | C (Cadbury), Wapentake
+A+   | C (Cadbury), Wapentake, CUP+LID (classic white)
 A    | Stage (malt), Winter Tent (caramel) 
-A-   | Stage, Mog's  
-B+   | H, Kulture, Revive, Nero (white) 
-B    | Spring Espresso, Stage (peppermint), Hot #'s
+A-   | Stage, Mog's, CUP+LID (ruby)
+B+   | H, Kulture, Revive, Nero (white), CUP+LID (golden toffee), Stage (mint)
+B    | Spring Espresso, Hot #'s
 B-   | Flamingo, 200°
 C+   | Canterbury Tails, Stage (oat)  
 C    | Nero, Nero (luxury), Costa (black forest) 
@@ -49,7 +49,7 @@ hot chocolate: perfect texture, a bit melty, a bit too cocoa-y for me. (A-)
 
 malted hot chocolate: perfect texture, a bit melty, a bit too cocoa-y for me, but now a bit malty yay! (A)
 
-peppermint hot chocolate: surprisingly really good, i dont like anything remotely minty, but this is sutble and interesting. worst than usual because mint, but soo much better than expected. would happily drink a little bit because i find it interesting, but idk if i would want a whole cup. (B)
+peppermint hot chocolate: surprisingly really good, i dont like anything remotely minty, but this is sutble and interesting. worst than usual because mint, but soo much better than expected. would happily drink a little bit because i find it interesting, but idk if i would want a whole cup. (B+)
 
 oat milk hot chocolate ('25-03-05): i like the oat milk and the thickness/texture of the hot chocolate, but the taste of the stage hot chocolate (for me) is not complimented by the oat milk. the issue here is the specific combination tho, not the oat milk. (C+)
 
@@ -125,3 +125,11 @@ The Calls: this one was very different, sweet, could be richer, and had a lovely
 ### Prufrock Coffee ('25-09)
 very bitter, fancy in a way i do not like, good texture however (D+)
 
+### CUP+LID ('25-09)
+original: sweet, chocolatly, thick, with a little bit of nuttyness. perfect in every way, no compromises, stands out whilst being good at everything (S)
+
+classic white: similar to the Stage white hot chocolate, but more intense with a worse texture, and a weird note I can't quite place. (A+)
+
+ruby: intense, berry-y, nice but too much all at once (A-)
+
+golden toffee: just takes like toffee, great, but barely a hot chocolate (B+)
